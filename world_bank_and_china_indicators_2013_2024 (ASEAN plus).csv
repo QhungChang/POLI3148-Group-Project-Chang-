@@ -1,0 +1,1779 @@
+year,indicator_code,indicator_name,value,country_name
+2024,SP.DYN.CBRT.IN,birth_rate_crude,20.309,Cambodia
+2023,SP.DYN.CBRT.IN,birth_rate_crude,20.752,Cambodia
+2022,SP.DYN.CBRT.IN,birth_rate_crude,21.279,Cambodia
+2021,SP.DYN.CBRT.IN,birth_rate_crude,21.905,Cambodia
+2020,SP.DYN.CBRT.IN,birth_rate_crude,22.409,Cambodia
+2019,SP.DYN.CBRT.IN,birth_rate_crude,22.988,Cambodia
+2018,SP.DYN.CBRT.IN,birth_rate_crude,23.372,Cambodia
+2017,SP.DYN.CBRT.IN,birth_rate_crude,23.655,Cambodia
+2016,SP.DYN.CBRT.IN,birth_rate_crude,23.956,Cambodia
+2015,SP.DYN.CBRT.IN,birth_rate_crude,24.218,Cambodia
+2014,SP.DYN.CBRT.IN,birth_rate_crude,24.403,Cambodia
+2013,SP.DYN.CBRT.IN,birth_rate_crude,24.56,Cambodia
+2024,SP.DYN.CBRT.IN,birth_rate_crude,15.762,Indonesia
+2023,SP.DYN.CBRT.IN,birth_rate_crude,15.941,Indonesia
+2022,SP.DYN.CBRT.IN,birth_rate_crude,16.204,Indonesia
+2021,SP.DYN.CBRT.IN,birth_rate_crude,16.417,Indonesia
+2020,SP.DYN.CBRT.IN,birth_rate_crude,16.674,Indonesia
+2019,SP.DYN.CBRT.IN,birth_rate_crude,16.909,Indonesia
+2018,SP.DYN.CBRT.IN,birth_rate_crude,17.146,Indonesia
+2017,SP.DYN.CBRT.IN,birth_rate_crude,17.54,Indonesia
+2016,SP.DYN.CBRT.IN,birth_rate_crude,18.138,Indonesia
+2015,SP.DYN.CBRT.IN,birth_rate_crude,18.569,Indonesia
+2014,SP.DYN.CBRT.IN,birth_rate_crude,19.091,Indonesia
+2013,SP.DYN.CBRT.IN,birth_rate_crude,19.643,Indonesia
+2024,SP.DYN.CBRT.IN,birth_rate_crude,20.933,Lao PDR
+2023,SP.DYN.CBRT.IN,birth_rate_crude,21.271,Lao PDR
+2022,SP.DYN.CBRT.IN,birth_rate_crude,21.693,Lao PDR
+2021,SP.DYN.CBRT.IN,birth_rate_crude,22.147,Lao PDR
+2020,SP.DYN.CBRT.IN,birth_rate_crude,22.618,Lao PDR
+2019,SP.DYN.CBRT.IN,birth_rate_crude,23.151,Lao PDR
+2018,SP.DYN.CBRT.IN,birth_rate_crude,23.599,Lao PDR
+2017,SP.DYN.CBRT.IN,birth_rate_crude,24.117,Lao PDR
+2016,SP.DYN.CBRT.IN,birth_rate_crude,24.567,Lao PDR
+2015,SP.DYN.CBRT.IN,birth_rate_crude,24.962,Lao PDR
+2014,SP.DYN.CBRT.IN,birth_rate_crude,25.049,Lao PDR
+2013,SP.DYN.CBRT.IN,birth_rate_crude,25.623,Lao PDR
+2024,SP.DYN.CBRT.IN,birth_rate_crude,12.362,Malaysia
+2023,SP.DYN.CBRT.IN,birth_rate_crude,12.412,Malaysia
+2022,SP.DYN.CBRT.IN,birth_rate_crude,12.394,Malaysia
+2021,SP.DYN.CBRT.IN,birth_rate_crude,12.385,Malaysia
+2020,SP.DYN.CBRT.IN,birth_rate_crude,13.393,Malaysia
+2019,SP.DYN.CBRT.IN,birth_rate_crude,14.233,Malaysia
+2018,SP.DYN.CBRT.IN,birth_rate_crude,14.808,Malaysia
+2017,SP.DYN.CBRT.IN,birth_rate_crude,15.329,Malaysia
+2016,SP.DYN.CBRT.IN,birth_rate_crude,15.789,Malaysia
+2015,SP.DYN.CBRT.IN,birth_rate_crude,16.336,Malaysia
+2014,SP.DYN.CBRT.IN,birth_rate_crude,16.724,Malaysia
+2013,SP.DYN.CBRT.IN,birth_rate_crude,16.761,Malaysia
+2024,SP.DYN.CBRT.IN,birth_rate_crude,15.894,Philippines
+2023,SP.DYN.CBRT.IN,birth_rate_crude,16.019,Philippines
+2022,SP.DYN.CBRT.IN,birth_rate_crude,16.057,Philippines
+2021,SP.DYN.CBRT.IN,birth_rate_crude,16.108,Philippines
+2020,SP.DYN.CBRT.IN,birth_rate_crude,17.017,Philippines
+2019,SP.DYN.CBRT.IN,birth_rate_crude,18.104,Philippines
+2018,SP.DYN.CBRT.IN,birth_rate_crude,19.418,Philippines
+2017,SP.DYN.CBRT.IN,birth_rate_crude,20.571,Philippines
+2016,SP.DYN.CBRT.IN,birth_rate_crude,21.76,Philippines
+2015,SP.DYN.CBRT.IN,birth_rate_crude,22.933,Philippines
+2014,SP.DYN.CBRT.IN,birth_rate_crude,23.404,Philippines
+2013,SP.DYN.CBRT.IN,birth_rate_crude,24.56,Philippines
+2024,SP.DYN.CBRT.IN,birth_rate_crude,10.1,Sri Lanka
+2023,SP.DYN.CBRT.IN,birth_rate_crude,11.2,Sri Lanka
+2022,SP.DYN.CBRT.IN,birth_rate_crude,12.4,Sri Lanka
+2021,SP.DYN.CBRT.IN,birth_rate_crude,12.9,Sri Lanka
+2020,SP.DYN.CBRT.IN,birth_rate_crude,13.8,Sri Lanka
+2019,SP.DYN.CBRT.IN,birth_rate_crude,14.6,Sri Lanka
+2018,SP.DYN.CBRT.IN,birth_rate_crude,15.15,Sri Lanka
+2017,SP.DYN.CBRT.IN,birth_rate_crude,15.371,Sri Lanka
+2016,SP.DYN.CBRT.IN,birth_rate_crude,15.651,Sri Lanka
+2015,SP.DYN.CBRT.IN,birth_rate_crude,16.022,Sri Lanka
+2014,SP.DYN.CBRT.IN,birth_rate_crude,16.522,Sri Lanka
+2013,SP.DYN.CBRT.IN,birth_rate_crude,17.028,Sri Lanka
+2024,SP.DYN.CBRT.IN,birth_rate_crude,8.116,Thailand
+2023,SP.DYN.CBRT.IN,birth_rate_crude,8.245,Thailand
+2022,SP.DYN.CBRT.IN,birth_rate_crude,8.38,Thailand
+2021,SP.DYN.CBRT.IN,birth_rate_crude,8.544,Thailand
+2020,SP.DYN.CBRT.IN,birth_rate_crude,8.792,Thailand
+2019,SP.DYN.CBRT.IN,birth_rate_crude,9.056,Thailand
+2018,SP.DYN.CBRT.IN,birth_rate_crude,9.4,Thailand
+2017,SP.DYN.CBRT.IN,birth_rate_crude,9.765,Thailand
+2016,SP.DYN.CBRT.IN,birth_rate_crude,10.111,Thailand
+2015,SP.DYN.CBRT.IN,birth_rate_crude,10.594,Thailand
+2014,SP.DYN.CBRT.IN,birth_rate_crude,10.95,Thailand
+2013,SP.DYN.CBRT.IN,birth_rate_crude,11.367,Thailand
+2024,SP.DYN.CBRT.IN,birth_rate_crude,13.423,Viet Nam
+2023,SP.DYN.CBRT.IN,birth_rate_crude,13.831,Viet Nam
+2022,SP.DYN.CBRT.IN,birth_rate_crude,14.272,Viet Nam
+2021,SP.DYN.CBRT.IN,birth_rate_crude,14.735,Viet Nam
+2020,SP.DYN.CBRT.IN,birth_rate_crude,15.234,Viet Nam
+2019,SP.DYN.CBRT.IN,birth_rate_crude,15.513,Viet Nam
+2018,SP.DYN.CBRT.IN,birth_rate_crude,15.438,Viet Nam
+2017,SP.DYN.CBRT.IN,birth_rate_crude,16.764,Viet Nam
+2016,SP.DYN.CBRT.IN,birth_rate_crude,17.313,Viet Nam
+2015,SP.DYN.CBRT.IN,birth_rate_crude,18.498,Viet Nam
+2014,SP.DYN.CBRT.IN,birth_rate_crude,18.671,Viet Nam
+2013,SP.DYN.CBRT.IN,birth_rate_crude,17.888,Viet Nam
+2024,SP.POP.GROW,population_growth_annual_pct,1.225939863,Cambodia
+2023,SP.POP.GROW,population_growth_annual_pct,1.283206776,Cambodia
+2022,SP.POP.GROW,population_growth_annual_pct,1.330888131,Cambodia
+2021,SP.POP.GROW,population_growth_annual_pct,1.476778362,Cambodia
+2020,SP.POP.GROW,population_growth_annual_pct,1.470629886,Cambodia
+2019,SP.POP.GROW,population_growth_annual_pct,1.26258301,Cambodia
+2018,SP.POP.GROW,population_growth_annual_pct,1.243682774,Cambodia
+2017,SP.POP.GROW,population_growth_annual_pct,1.381765961,Cambodia
+2016,SP.POP.GROW,population_growth_annual_pct,1.458607676,Cambodia
+2015,SP.POP.GROW,population_growth_annual_pct,1.46023763,Cambodia
+2014,SP.POP.GROW,population_growth_annual_pct,1.482437252,Cambodia
+2013,SP.POP.GROW,population_growth_annual_pct,1.49510213,Cambodia
+2024,SP.POP.GROW,population_growth_annual_pct,0.813871513,Indonesia
+2023,SP.POP.GROW,population_growth_annual_pct,0.842666137,Indonesia
+2022,SP.POP.GROW,population_growth_annual_pct,0.74605047,Indonesia
+2021,SP.POP.GROW,population_growth_annual_pct,0.704601322,Indonesia
+2020,SP.POP.GROW,population_growth_annual_pct,0.849801187,Indonesia
+2019,SP.POP.GROW,population_growth_annual_pct,0.935604959,Indonesia
+2018,SP.POP.GROW,population_growth_annual_pct,0.96974341,Indonesia
+2017,SP.POP.GROW,population_growth_annual_pct,1.022329398,Indonesia
+2016,SP.POP.GROW,population_growth_annual_pct,1.0744882,Indonesia
+2015,SP.POP.GROW,population_growth_annual_pct,1.122339818,Indonesia
+2014,SP.POP.GROW,population_growth_annual_pct,1.175360912,Indonesia
+2013,SP.POP.GROW,population_growth_annual_pct,1.240380016,Indonesia
+2024,SP.POP.GROW,population_growth_annual_pct,1.35832703,Lao PDR
+2023,SP.POP.GROW,population_growth_annual_pct,1.392376672,Lao PDR
+2022,SP.POP.GROW,population_growth_annual_pct,1.409716701,Lao PDR
+2021,SP.POP.GROW,population_growth_annual_pct,1.441416409,Lao PDR
+2020,SP.POP.GROW,population_growth_annual_pct,1.493386752,Lao PDR
+2019,SP.POP.GROW,population_growth_annual_pct,1.525763046,Lao PDR
+2018,SP.POP.GROW,population_growth_annual_pct,1.55377802,Lao PDR
+2017,SP.POP.GROW,population_growth_annual_pct,1.570297226,Lao PDR
+2016,SP.POP.GROW,population_growth_annual_pct,1.563175613,Lao PDR
+2015,SP.POP.GROW,population_growth_annual_pct,1.458364749,Lao PDR
+2014,SP.POP.GROW,population_growth_annual_pct,1.378768427,Lao PDR
+2013,SP.POP.GROW,population_growth_annual_pct,1.407554774,Lao PDR
+2024,SP.POP.GROW,population_growth_annual_pct,1.22058891,Malaysia
+2023,SP.POP.GROW,population_growth_annual_pct,1.234028692,Malaysia
+2022,SP.POP.GROW,population_growth_annual_pct,1.197772001,Malaysia
+2021,SP.POP.GROW,population_growth_annual_pct,1.152513044,Malaysia
+2020,SP.POP.GROW,population_growth_annual_pct,1.333633231,Malaysia
+2019,SP.POP.GROW,population_growth_annual_pct,1.596466533,Malaysia
+2018,SP.POP.GROW,population_growth_annual_pct,1.701747319,Malaysia
+2017,SP.POP.GROW,population_growth_annual_pct,1.76466064,Malaysia
+2016,SP.POP.GROW,population_growth_annual_pct,1.767310548,Malaysia
+2015,SP.POP.GROW,population_growth_annual_pct,1.733194456,Malaysia
+2014,SP.POP.GROW,population_growth_annual_pct,1.714740728,Malaysia
+2013,SP.POP.GROW,population_growth_annual_pct,1.70946282,Malaysia
+2024,SP.POP.GROW,population_growth_annual_pct,0.825602489,Philippines
+2023,SP.POP.GROW,population_growth_annual_pct,0.810000999,Philippines
+2022,SP.POP.GROW,population_growth_annual_pct,0.760479216,Philippines
+2021,SP.POP.GROW,population_growth_annual_pct,0.905660311,Philippines
+2020,SP.POP.GROW,population_growth_annual_pct,1.145514086,Philippines
+2019,SP.POP.GROW,population_growth_annual_pct,1.216155346,Philippines
+2018,SP.POP.GROW,population_growth_annual_pct,1.236860333,Philippines
+2017,SP.POP.GROW,population_growth_annual_pct,1.288301867,Philippines
+2016,SP.POP.GROW,population_growth_annual_pct,1.341907095,Philippines
+2015,SP.POP.GROW,population_growth_annual_pct,1.478753843,Philippines
+2014,SP.POP.GROW,population_growth_annual_pct,1.642832838,Philippines
+2013,SP.POP.GROW,population_growth_annual_pct,1.879715797,Philippines
+2024,SP.POP.GROW,population_growth_annual_pct,-0.550589519,Sri Lanka
+2023,SP.POP.GROW,population_growth_annual_pct,-0.65132077,Sri Lanka
+2022,SP.POP.GROW,population_growth_annual_pct,0.11277264,Sri Lanka
+2021,SP.POP.GROW,population_growth_annual_pct,1.075449957,Sri Lanka
+2020,SP.POP.GROW,population_growth_annual_pct,0.53062656,Sri Lanka
+2019,SP.POP.GROW,population_growth_annual_pct,0.611875946,Sri Lanka
+2018,SP.POP.GROW,population_growth_annual_pct,1.006431981,Sri Lanka
+2017,SP.POP.GROW,population_growth_annual_pct,1.143887584,Sri Lanka
+2016,SP.POP.GROW,population_growth_annual_pct,1.133277498,Sri Lanka
+2015,SP.POP.GROW,population_growth_annual_pct,0.919811027,Sri Lanka
+2014,SP.POP.GROW,population_growth_annual_pct,0.933207943,Sri Lanka
+2013,SP.POP.GROW,population_growth_annual_pct,-2.799682733,Sri Lanka
+2024,SP.POP.GROW,population_growth_annual_pct,-0.048021055,Thailand
+2023,SP.POP.GROW,population_growth_annual_pct,-0.045865189,Thailand
+2022,SP.POP.GROW,population_growth_annual_pct,0.011148545,Thailand
+2021,SP.POP.GROW,population_growth_annual_pct,0.119758275,Thailand
+2020,SP.POP.GROW,population_growth_annual_pct,0.166540795,Thailand
+2019,SP.POP.GROW,population_growth_annual_pct,0.204609852,Thailand
+2018,SP.POP.GROW,population_growth_annual_pct,0.302929452,Thailand
+2017,SP.POP.GROW,population_growth_annual_pct,0.42296351,Thailand
+2016,SP.POP.GROW,population_growth_annual_pct,0.451266063,Thailand
+2015,SP.POP.GROW,population_growth_annual_pct,0.460976294,Thailand
+2014,SP.POP.GROW,population_growth_annual_pct,0.530129864,Thailand
+2013,SP.POP.GROW,population_growth_annual_pct,0.587325699,Thailand
+2024,SP.POP.GROW,population_growth_annual_pct,0.631267006,Viet Nam
+2023,SP.POP.GROW,population_growth_annual_pct,0.671429251,Viet Nam
+2022,SP.POP.GROW,population_growth_annual_pct,0.750756665,Viet Nam
+2021,SP.POP.GROW,population_growth_annual_pct,0.868883561,Viet Nam
+2020,SP.POP.GROW,population_growth_annual_pct,0.927434296,Viet Nam
+2019,SP.POP.GROW,population_growth_annual_pct,0.968366699,Viet Nam
+2018,SP.POP.GROW,population_growth_annual_pct,1.107913952,Viet Nam
+2017,SP.POP.GROW,population_growth_annual_pct,1.244204736,Viet Nam
+2016,SP.POP.GROW,population_growth_annual_pct,1.259883665,Viet Nam
+2015,SP.POP.GROW,population_growth_annual_pct,1.239754031,Viet Nam
+2014,SP.POP.GROW,population_growth_annual_pct,1.214234636,Viet Nam
+2013,SP.POP.GROW,population_growth_annual_pct,1.180297555,Viet Nam
+2024,SP.POP.TOTL,population_total,17638801,Cambodia
+2023,SP.POP.TOTL,population_total,17423880,Cambodia
+2022,SP.POP.TOTL,population_total,17201724,Cambodia
+2021,SP.POP.TOTL,population_total,16974305,Cambodia
+2020,SP.POP.TOTL,population_total,16725474,Cambodia
+2019,SP.POP.TOTL,population_total,16481304,Cambodia
+2018,SP.POP.TOTL,population_total,16274522,Cambodia
+2017,SP.POP.TOTL,population_total,16073372,Cambodia
+2016,SP.POP.TOTL,population_total,15852803,Cambodia
+2015,SP.POP.TOTL,population_total,15623251,Cambodia
+2014,SP.POP.TOTL,population_total,15396772,Cambodia
+2013,SP.POP.TOTL,population_total,15170208,Cambodia
+2024,SP.POP.TOTL,population_total,283487931,Indonesia
+2023,SP.POP.TOTL,population_total,281190067,Indonesia
+2022,SP.POP.TOTL,population_total,278830529,Indonesia
+2021,SP.POP.TOTL,population_total,276758053,Indonesia
+2020,SP.POP.TOTL,population_total,274814866,Indonesia
+2019,SP.POP.TOTL,population_total,272489381,Indonesia
+2018,SP.POP.TOTL,population_total,269951846,Indonesia
+2017,SP.POP.TOTL,population_total,267346658,Indonesia
+2016,SP.POP.TOTL,population_total,264627418,Indonesia
+2015,SP.POP.TOTL,population_total,261799249,Indonesia
+2014,SP.POP.TOTL,population_total,258877399,Indonesia
+2013,SP.POP.TOTL,population_total,255852467,Indonesia
+2024,SP.POP.TOTL,population_total,7769819,Lao PDR
+2023,SP.POP.TOTL,population_total,7664993,Lao PDR
+2022,SP.POP.TOTL,population_total,7559007,Lao PDR
+2021,SP.POP.TOTL,population_total,7453194,Lao PDR
+2020,SP.POP.TOTL,population_total,7346533,Lao PDR
+2019,SP.POP.TOTL,population_total,7237636,Lao PDR
+2018,SP.POP.TOTL,population_total,7128045,Lao PDR
+2017,SP.POP.TOTL,population_total,7018147,Lao PDR
+2016,SP.POP.TOTL,population_total,6908802,Lao PDR
+2015,SP.POP.TOTL,population_total,6801645,Lao PDR
+2014,SP.POP.TOTL,population_total,6703172,Lao PDR
+2013,SP.POP.TOTL,population_total,6611385,Lao PDR
+2024,SP.POP.TOTL,population_total,35557673,Malaysia
+2023,SP.POP.TOTL,population_total,35126298,Malaysia
+2022,SP.POP.TOTL,population_total,34695493,Malaysia
+2021,SP.POP.TOTL,population_total,34282399,Malaysia
+2020,SP.POP.TOTL,population_total,33889558,Malaysia
+2019,SP.POP.TOTL,population_total,33440596,Malaysia
+2018,SP.POP.TOTL,population_total,32910967,Malaysia
+2017,SP.POP.TOTL,population_total,32355644,Malaysia
+2016,SP.POP.TOTL,population_total,31789685,Malaysia
+2015,SP.POP.TOTL,population_total,31232798,Malaysia
+2014,SP.POP.TOTL,population_total,30696137,Malaysia
+2013,SP.POP.TOTL,population_total,30174265,Malaysia
+2024,SP.POP.TOTL,population_total,115843670,Philippines
+2023,SP.POP.TOTL,population_total,114891199,Philippines
+2022,SP.POP.TOTL,population_total,113964338,Philippines
+2021,SP.POP.TOTL,population_total,113100950,Philippines
+2020,SP.POP.TOTL,population_total,112081264,Philippines
+2019,SP.POP.TOTL,population_total,110804683,Philippines
+2018,SP.POP.TOTL,population_total,109465287,Philippines
+2017,SP.POP.TOTL,population_total,108119693,Philippines
+2016,SP.POP.TOTL,population_total,106735719,Philippines
+2015,SP.POP.TOTL,population_total,105312992,Philippines
+2014,SP.POP.TOTL,population_total,103767130,Philippines
+2013,SP.POP.TOTL,population_total,102076336,Philippines
+2024,SP.POP.TOTL,population_total,21916000,Sri Lanka
+2023,SP.POP.TOTL,population_total,22037000,Sri Lanka
+2022,SP.POP.TOTL,population_total,22181000,Sri Lanka
+2021,SP.POP.TOTL,population_total,22156000,Sri Lanka
+2020,SP.POP.TOTL,population_total,21919000,Sri Lanka
+2019,SP.POP.TOTL,population_total,21803000,Sri Lanka
+2018,SP.POP.TOTL,population_total,21670000,Sri Lanka
+2017,SP.POP.TOTL,population_total,21453000,Sri Lanka
+2016,SP.POP.TOTL,population_total,21209000,Sri Lanka
+2015,SP.POP.TOTL,population_total,20970000,Sri Lanka
+2014,SP.POP.TOTL,population_total,20778000,Sri Lanka
+2013,SP.POP.TOTL,population_total,20585000,Sri Lanka
+2024,SP.POP.TOTL,population_total,71668011,Thailand
+2023,SP.POP.TOTL,population_total,71702435,Thailand
+2022,SP.POP.TOTL,population_total,71735329,Thailand
+2021,SP.POP.TOTL,population_total,71727332,Thailand
+2020,SP.POP.TOTL,population_total,71641484,Thailand
+2019,SP.POP.TOTL,population_total,71522271,Thailand
+2018,SP.POP.TOTL,population_total,71376079,Thailand
+2017,SP.POP.TOTL,population_total,71160187,Thailand
+2016,SP.POP.TOTL,population_total,70859841,Thailand
+2015,SP.POP.TOTL,population_total,70540795,Thailand
+2014,SP.POP.TOTL,population_total,70216367,Thailand
+2013,SP.POP.TOTL,population_total,69845114,Thailand
+2024,SP.POP.TOTL,population_total,100987686,Viet Nam
+2023,SP.POP.TOTL,population_total,100352192,Viet Nam
+2022,SP.POP.TOTL,population_total,99680655,Viet Nam
+2021,SP.POP.TOTL,population_total,98935098,Viet Nam
+2020,SP.POP.TOTL,population_total,98079191,Viet Nam
+2019,SP.POP.TOTL,population_total,97173776,Viet Nam
+2018,SP.POP.TOTL,population_total,96237319,Viet Nam
+2017,SP.POP.TOTL,population_total,95176977,Viet Nam
+2016,SP.POP.TOTL,population_total,94000117,Viet Nam
+2015,SP.POP.TOTL,population_total,92823254,Viet Nam
+2014,SP.POP.TOTL,population_total,91679578,Viet Nam
+2013,SP.POP.TOTL,population_total,90573104,Viet Nam
+2024,SL.TLF.CACT.ZS,labor_force_participation_rate,82.373,Cambodia
+2023,SL.TLF.CACT.ZS,labor_force_participation_rate,82.348,Cambodia
+2022,SL.TLF.CACT.ZS,labor_force_participation_rate,82.338,Cambodia
+2021,SL.TLF.CACT.ZS,labor_force_participation_rate,79.51,Cambodia
+2020,SL.TLF.CACT.ZS,labor_force_participation_rate,82.238,Cambodia
+2019,SL.TLF.CACT.ZS,labor_force_participation_rate,82.422,Cambodia
+2018,SL.TLF.CACT.ZS,labor_force_participation_rate,81.911,Cambodia
+2017,SL.TLF.CACT.ZS,labor_force_participation_rate,81.409,Cambodia
+2016,SL.TLF.CACT.ZS,labor_force_participation_rate,81.735,Cambodia
+2015,SL.TLF.CACT.ZS,labor_force_participation_rate,79.603,Cambodia
+2014,SL.TLF.CACT.ZS,labor_force_participation_rate,80.293,Cambodia
+2013,SL.TLF.CACT.ZS,labor_force_participation_rate,80.219,Cambodia
+2024,SL.TLF.CACT.ZS,labor_force_participation_rate,67.927,Indonesia
+2023,SL.TLF.CACT.ZS,labor_force_participation_rate,67.899,Indonesia
+2022,SL.TLF.CACT.ZS,labor_force_participation_rate,67.018,Indonesia
+2021,SL.TLF.CACT.ZS,labor_force_participation_rate,65.868,Indonesia
+2020,SL.TLF.CACT.ZS,labor_force_participation_rate,67.401,Indonesia
+2019,SL.TLF.CACT.ZS,labor_force_participation_rate,68.238,Indonesia
+2018,SL.TLF.CACT.ZS,labor_force_participation_rate,67.652,Indonesia
+2017,SL.TLF.CACT.ZS,labor_force_participation_rate,66.694,Indonesia
+2016,SL.TLF.CACT.ZS,labor_force_participation_rate,66.314,Indonesia
+2015,SL.TLF.CACT.ZS,labor_force_participation_rate,66.578,Indonesia
+2014,SL.TLF.CACT.ZS,labor_force_participation_rate,66.624,Indonesia
+2013,SL.TLF.CACT.ZS,labor_force_participation_rate,66.757,Indonesia
+2024,SL.TLF.CACT.ZS,labor_force_participation_rate,65.989,Lao PDR
+2023,SL.TLF.CACT.ZS,labor_force_participation_rate,65.99,Lao PDR
+2022,SL.TLF.CACT.ZS,labor_force_participation_rate,66.001,Lao PDR
+2021,SL.TLF.CACT.ZS,labor_force_participation_rate,64.618,Lao PDR
+2020,SL.TLF.CACT.ZS,labor_force_participation_rate,62.912,Lao PDR
+2019,SL.TLF.CACT.ZS,labor_force_participation_rate,62.207,Lao PDR
+2018,SL.TLF.CACT.ZS,labor_force_participation_rate,60.989,Lao PDR
+2017,SL.TLF.CACT.ZS,labor_force_participation_rate,59.782,Lao PDR
+2016,SL.TLF.CACT.ZS,labor_force_participation_rate,59.898,Lao PDR
+2015,SL.TLF.CACT.ZS,labor_force_participation_rate,60.016,Lao PDR
+2014,SL.TLF.CACT.ZS,labor_force_participation_rate,60.14,Lao PDR
+2013,SL.TLF.CACT.ZS,labor_force_participation_rate,60.272,Lao PDR
+2024,SL.TLF.CACT.ZS,labor_force_participation_rate,66.107,Malaysia
+2023,SL.TLF.CACT.ZS,labor_force_participation_rate,66.178,Malaysia
+2022,SL.TLF.CACT.ZS,labor_force_participation_rate,66.223,Malaysia
+2021,SL.TLF.CACT.ZS,labor_force_participation_rate,65.619,Malaysia
+2020,SL.TLF.CACT.ZS,labor_force_participation_rate,65.473,Malaysia
+2019,SL.TLF.CACT.ZS,labor_force_participation_rate,65.871,Malaysia
+2018,SL.TLF.CACT.ZS,labor_force_participation_rate,65.574,Malaysia
+2017,SL.TLF.CACT.ZS,labor_force_participation_rate,65.202,Malaysia
+2016,SL.TLF.CACT.ZS,labor_force_participation_rate,65.09,Malaysia
+2015,SL.TLF.CACT.ZS,labor_force_participation_rate,65.185,Malaysia
+2014,SL.TLF.CACT.ZS,labor_force_participation_rate,64.962,Malaysia
+2013,SL.TLF.CACT.ZS,labor_force_participation_rate,63.964,Malaysia
+2024,SL.TLF.CACT.ZS,labor_force_participation_rate,61.402,Philippines
+2023,SL.TLF.CACT.ZS,labor_force_participation_rate,61.42,Philippines
+2022,SL.TLF.CACT.ZS,labor_force_participation_rate,61.439,Philippines
+2021,SL.TLF.CACT.ZS,labor_force_participation_rate,56.471,Philippines
+2020,SL.TLF.CACT.ZS,labor_force_participation_rate,54.746,Philippines
+2019,SL.TLF.CACT.ZS,labor_force_participation_rate,59.444,Philippines
+2018,SL.TLF.CACT.ZS,labor_force_participation_rate,58.981,Philippines
+2017,SL.TLF.CACT.ZS,labor_force_participation_rate,59.141,Philippines
+2016,SL.TLF.CACT.ZS,labor_force_participation_rate,61.59,Philippines
+2015,SL.TLF.CACT.ZS,labor_force_participation_rate,61.405,Philippines
+2014,SL.TLF.CACT.ZS,labor_force_participation_rate,62.171,Philippines
+2013,SL.TLF.CACT.ZS,labor_force_participation_rate,61.446,Philippines
+2024,SL.TLF.CACT.ZS,labor_force_participation_rate,48.6,Sri Lanka
+2023,SL.TLF.CACT.ZS,labor_force_participation_rate,47.4,Sri Lanka
+2022,SL.TLF.CACT.ZS,labor_force_participation_rate,49.727,Sri Lanka
+2021,SL.TLF.CACT.ZS,labor_force_participation_rate,49.836,Sri Lanka
+2020,SL.TLF.CACT.ZS,labor_force_participation_rate,50.495,Sri Lanka
+2019,SL.TLF.CACT.ZS,labor_force_participation_rate,52.249,Sri Lanka
+2018,SL.TLF.CACT.ZS,labor_force_participation_rate,51.721,Sri Lanka
+2017,SL.TLF.CACT.ZS,labor_force_participation_rate,53.991,Sri Lanka
+2016,SL.TLF.CACT.ZS,labor_force_participation_rate,53.725,Sri Lanka
+2015,SL.TLF.CACT.ZS,labor_force_participation_rate,53.669,Sri Lanka
+2014,SL.TLF.CACT.ZS,labor_force_participation_rate,51.599,Sri Lanka
+2013,SL.TLF.CACT.ZS,labor_force_participation_rate,52.053,Sri Lanka
+2024,SL.TLF.CACT.ZS,labor_force_participation_rate,67.129,Thailand
+2023,SL.TLF.CACT.ZS,labor_force_participation_rate,67.814,Thailand
+2022,SL.TLF.CACT.ZS,labor_force_participation_rate,67.18,Thailand
+2021,SL.TLF.CACT.ZS,labor_force_participation_rate,66.952,Thailand
+2020,SL.TLF.CACT.ZS,labor_force_participation_rate,67.021,Thailand
+2019,SL.TLF.CACT.ZS,labor_force_participation_rate,66.94,Thailand
+2018,SL.TLF.CACT.ZS,labor_force_participation_rate,67.798,Thailand
+2017,SL.TLF.CACT.ZS,labor_force_participation_rate,67.525,Thailand
+2016,SL.TLF.CACT.ZS,labor_force_participation_rate,68.315,Thailand
+2015,SL.TLF.CACT.ZS,labor_force_participation_rate,69.269,Thailand
+2014,SL.TLF.CACT.ZS,labor_force_participation_rate,69.794,Thailand
+2013,SL.TLF.CACT.ZS,labor_force_participation_rate,69.97,Thailand
+2024,SL.TLF.CACT.ZS,labor_force_participation_rate,73.134,Viet Nam
+2023,SL.TLF.CACT.ZS,labor_force_participation_rate,73.545,Viet Nam
+2022,SL.TLF.CACT.ZS,labor_force_participation_rate,74.484,Viet Nam
+2021,SL.TLF.CACT.ZS,labor_force_participation_rate,73.738,Viet Nam
+2020,SL.TLF.CACT.ZS,labor_force_participation_rate,74.367,Viet Nam
+2019,SL.TLF.CACT.ZS,labor_force_participation_rate,76.615,Viet Nam
+2018,SL.TLF.CACT.ZS,labor_force_participation_rate,77.482,Viet Nam
+2017,SL.TLF.CACT.ZS,labor_force_participation_rate,77.2,Viet Nam
+2016,SL.TLF.CACT.ZS,labor_force_participation_rate,76.965,Viet Nam
+2015,SL.TLF.CACT.ZS,labor_force_participation_rate,77.43,Viet Nam
+2014,SL.TLF.CACT.ZS,labor_force_participation_rate,77.306,Viet Nam
+2013,SL.TLF.CACT.ZS,labor_force_participation_rate,77.234,Viet Nam
+2024,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.596023669,Cambodia
+2023,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.352918844,Cambodia
+2022,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.167538908,Cambodia
+2021,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.647438708,Cambodia
+2020,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.729230804,Cambodia
+2019,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.685827438,Cambodia
+2018,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.207479049,Cambodia
+2017,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.859660611,Cambodia
+2016,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.039285631,Cambodia
+2015,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.131684022,Cambodia
+2014,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.787027078,Cambodia
+2013,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.552546195,Cambodia
+2024,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.806060051,Indonesia
+2023,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.705784238,Indonesia
+2022,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.754716583,Indonesia
+2021,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,4.620672732,Indonesia
+2020,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,5.103955991,Indonesia
+2019,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,5.454534399,Indonesia
+2018,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,5.094333829,Indonesia
+2017,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,5.990299743,Indonesia
+2016,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,4.820248664,Indonesia
+2015,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,5.002885481,Indonesia
+2014,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,4.940893221,Indonesia
+2013,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,5.855540025,Indonesia
+2024,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,,Lao PDR
+2023,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,10.34437485,Lao PDR
+2022,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,8.413767686,Lao PDR
+2021,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,10.31330131,Lao PDR
+2020,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,10.32832394,Lao PDR
+2019,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,10.79167895,Lao PDR
+2018,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,8.377122557,Lao PDR
+2017,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.783402157,Lao PDR
+2016,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.106615446,Lao PDR
+2015,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,4.963242184,Lao PDR
+2014,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,6.482374586,Lao PDR
+2013,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,4.887313188,Lao PDR
+2024,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.253654191,Malaysia
+2023,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.178172158,Malaysia
+2022,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.193417928,Malaysia
+2021,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.433594015,Malaysia
+2020,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.564481941,Malaysia
+2019,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.699092496,Malaysia
+2018,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.682455373,Malaysia
+2017,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.126963688,Malaysia
+2016,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.936988491,Malaysia
+2015,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.845001685,Malaysia
+2014,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.760606188,Malaysia
+2013,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.16598303,Malaysia
+2024,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.085554372,Philippines
+2023,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.201190134,Philippines
+2022,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.362767236,Philippines
+2021,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.292994927,Philippines
+2020,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.14756942,Philippines
+2019,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.12625301,Philippines
+2018,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,0.941254933,Philippines
+2017,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,0.898913855,Philippines
+2016,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,0.83695681,Philippines
+2015,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,0.948387367,Philippines
+2014,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.035727614,Philippines
+2013,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,0.987227611,Philippines
+2024,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.709212667,Sri Lanka
+2023,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.204196958,Sri Lanka
+2022,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.813022315,Sri Lanka
+2021,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.022933997,Sri Lanka
+2020,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.352270549,Sri Lanka
+2019,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.493061066,Sri Lanka
+2018,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,,Sri Lanka
+2017,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.623786046,Sri Lanka
+2016,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.658034957,Sri Lanka
+2015,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.482090368,Sri Lanka
+2014,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.629391282,Sri Lanka
+2013,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.622709021,Sri Lanka
+2024,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,4.003089673,Thailand
+2023,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.648098959,Thailand
+2022,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,4.102005544,Thailand
+2021,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,4.164448578,Thailand
+2020,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.626799863,Thailand
+2019,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.659585147,Thailand
+2018,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,4.042967037,Thailand
+2017,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,4.920355154,Thailand
+2016,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.862982262,Thailand
+2015,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.75814698,Thailand
+2014,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.911260683,Thailand
+2013,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,4.809587976,Thailand
+2024,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,,Viet Nam
+2023,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.90086967,Viet Nam
+2022,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.106868725,Viet Nam
+2021,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.876097499,Viet Nam
+2020,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.752041474,Viet Nam
+2019,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.899680399,Viet Nam
+2018,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.836187003,Viet Nam
+2017,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.939580635,Viet Nam
+2016,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,1.964821489,Viet Nam
+2015,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.122894125,Viet Nam
+2014,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,2.330443493,Viet Nam
+2013,TX.VAL.AGRI.ZS.UN,agricultural_raw_materials_exports_pct,3.197090721,Viet Nam
+2024,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,0.001242881,Cambodia
+2023,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,3.69E-06,Cambodia
+2022,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,3.39E-06,Cambodia
+2021,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,0.00011284,Cambodia
+2020,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,2.05E-06,Cambodia
+2019,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,6.86E-06,Cambodia
+2018,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,0.000711772,Cambodia
+2017,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,5.14E-06,Cambodia
+2016,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,0.007714306,Cambodia
+2015,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,2.94E-05,Cambodia
+2014,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,3.21E-07,Cambodia
+2013,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,0.000907739,Cambodia
+2024,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,20.84829422,Indonesia
+2023,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,22.98840499,Indonesia
+2022,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,24.29680936,Indonesia
+2021,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,19.45403687,Indonesia
+2020,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,15.62688087,Indonesia
+2019,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,20.33802174,Indonesia
+2018,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,23.31002861,Indonesia
+2017,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,21.84518766,Indonesia
+2016,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,19.28903403,Indonesia
+2015,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,23.04277508,Indonesia
+2014,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,29.04285462,Indonesia
+2013,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,31.44082849,Indonesia
+2024,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,,Lao PDR
+2023,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.826812899,Lao PDR
+2022,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,24.95086705,Lao PDR
+2021,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,27.41775843,Lao PDR
+2020,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,16.86571671,Lao PDR
+2019,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,27.0504531,Lao PDR
+2018,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,24.25197694,Lao PDR
+2017,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,26.32641536,Lao PDR
+2016,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,0.240806629,Lao PDR
+2015,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,0.176088512,Lao PDR
+2014,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,0.042123341,Lao PDR
+2013,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,0.616634277,Lao PDR
+2024,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,14.40331582,Malaysia
+2023,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,16.51216338,Malaysia
+2022,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,17.08107931,Malaysia
+2021,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,12.44741033,Malaysia
+2020,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,11.38568064,Malaysia
+2019,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,14.43927765,Malaysia
+2018,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,15.67076642,Malaysia
+2017,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,15.4036826,Malaysia
+2016,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,14.00259524,Malaysia
+2015,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,16.46374629,Malaysia
+2014,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,22.08948731,Malaysia
+2013,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,22.27238742,Malaysia
+2024,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.258116964,Philippines
+2023,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.139127323,Philippines
+2022,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.568316693,Philippines
+2021,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.18141568,Philippines
+2020,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.08970257,Philippines
+2019,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.475881529,Philippines
+2018,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.695715719,Philippines
+2017,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.508846659,Philippines
+2016,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.3324938,Philippines
+2015,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.320696086,Philippines
+2014,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,2.972819975,Philippines
+2013,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,3.766912716,Philippines
+2024,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,3.439814181,Sri Lanka
+2023,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,3.225493125,Sri Lanka
+2022,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,2.254465901,Sri Lanka
+2021,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.927191888,Sri Lanka
+2020,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,2.737578636,Sri Lanka
+2019,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,2.859717528,Sri Lanka
+2018,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,,Sri Lanka
+2017,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,2.558431941,Sri Lanka
+2016,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.600245896,Sri Lanka
+2015,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.808345269,Sri Lanka
+2014,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,2.638481708,Sri Lanka
+2013,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,0.316453475,Sri Lanka
+2024,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,3.422476976,Thailand
+2023,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,3.867002137,Thailand
+2022,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,3.884727684,Thailand
+2021,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,3.58403042,Thailand
+2020,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,2.655414499,Thailand
+2019,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,3.440945933,Thailand
+2018,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,4.225474101,Thailand
+2017,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,3.488262552,Thailand
+2016,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,2.903266635,Thailand
+2015,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,3.936074033,Thailand
+2014,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,5.266216122,Thailand
+2013,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,6.265606399,Thailand
+2024,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,,Viet Nam
+2023,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,0.952923331,Viet Nam
+2022,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.167043847,Viet Nam
+2021,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,0.979644882,Viet Nam
+2020,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,0.948498944,Viet Nam
+2019,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.37705087,Viet Nam
+2018,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,1.613912703,Viet Nam
+2017,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,2.252773513,Viet Nam
+2016,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,2.026356218,Viet Nam
+2015,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,3.083529778,Viet Nam
+2014,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,6.149934739,Viet Nam
+2013,TX.VAL.FUEL.ZS.UN,fuel_exports_pct,7.335465156,Viet Nam
+2024,TX.VAL.FOOD.ZS.UN,food_exports_pct,15.22935987,Cambodia
+2023,TX.VAL.FOOD.ZS.UN,food_exports_pct,7.812896754,Cambodia
+2022,TX.VAL.FOOD.ZS.UN,food_exports_pct,4.786338447,Cambodia
+2021,TX.VAL.FOOD.ZS.UN,food_exports_pct,5.330390152,Cambodia
+2020,TX.VAL.FOOD.ZS.UN,food_exports_pct,4.453972221,Cambodia
+2019,TX.VAL.FOOD.ZS.UN,food_exports_pct,4.586075048,Cambodia
+2018,TX.VAL.FOOD.ZS.UN,food_exports_pct,5.154066325,Cambodia
+2017,TX.VAL.FOOD.ZS.UN,food_exports_pct,4.777133392,Cambodia
+2016,TX.VAL.FOOD.ZS.UN,food_exports_pct,4.508955391,Cambodia
+2015,TX.VAL.FOOD.ZS.UN,food_exports_pct,4.769863159,Cambodia
+2014,TX.VAL.FOOD.ZS.UN,food_exports_pct,5.267180557,Cambodia
+2013,TX.VAL.FOOD.ZS.UN,food_exports_pct,5.840878799,Cambodia
+2024,TX.VAL.FOOD.ZS.UN,food_exports_pct,19.82116952,Indonesia
+2023,TX.VAL.FOOD.ZS.UN,food_exports_pct,19.59344342,Indonesia
+2022,TX.VAL.FOOD.ZS.UN,food_exports_pct,20.36465716,Indonesia
+2021,TX.VAL.FOOD.ZS.UN,food_exports_pct,23.51251954,Indonesia
+2020,TX.VAL.FOOD.ZS.UN,food_exports_pct,23.60969628,Indonesia
+2019,TX.VAL.FOOD.ZS.UN,food_exports_pct,20.30346231,Indonesia
+2018,TX.VAL.FOOD.ZS.UN,food_exports_pct,20.44881683,Indonesia
+2017,TX.VAL.FOOD.ZS.UN,food_exports_pct,23.18610091,Indonesia
+2016,TX.VAL.FOOD.ZS.UN,food_exports_pct,22.2766602,Indonesia
+2015,TX.VAL.FOOD.ZS.UN,food_exports_pct,21.45178045,Indonesia
+2014,TX.VAL.FOOD.ZS.UN,food_exports_pct,20.10336398,Indonesia
+2013,TX.VAL.FOOD.ZS.UN,food_exports_pct,17.49567868,Indonesia
+2024,TX.VAL.FOOD.ZS.UN,food_exports_pct,,Lao PDR
+2023,TX.VAL.FOOD.ZS.UN,food_exports_pct,23.23329908,Lao PDR
+2022,TX.VAL.FOOD.ZS.UN,food_exports_pct,19.64493884,Lao PDR
+2021,TX.VAL.FOOD.ZS.UN,food_exports_pct,14.53714681,Lao PDR
+2020,TX.VAL.FOOD.ZS.UN,food_exports_pct,28.0692653,Lao PDR
+2019,TX.VAL.FOOD.ZS.UN,food_exports_pct,13.46826542,Lao PDR
+2018,TX.VAL.FOOD.ZS.UN,food_exports_pct,17.17468539,Lao PDR
+2017,TX.VAL.FOOD.ZS.UN,food_exports_pct,20.81540105,Lao PDR
+2016,TX.VAL.FOOD.ZS.UN,food_exports_pct,29.33582427,Lao PDR
+2015,TX.VAL.FOOD.ZS.UN,food_exports_pct,21.05848209,Lao PDR
+2014,TX.VAL.FOOD.ZS.UN,food_exports_pct,17.34289065,Lao PDR
+2013,TX.VAL.FOOD.ZS.UN,food_exports_pct,14.16267175,Lao PDR
+2024,TX.VAL.FOOD.ZS.UN,food_exports_pct,10.21935408,Malaysia
+2023,TX.VAL.FOOD.ZS.UN,food_exports_pct,9.541790496,Malaysia
+2022,TX.VAL.FOOD.ZS.UN,food_exports_pct,10.58831499,Malaysia
+2021,TX.VAL.FOOD.ZS.UN,food_exports_pct,10.79008481,Malaysia
+2020,TX.VAL.FOOD.ZS.UN,food_exports_pct,10.07283729,Malaysia
+2019,TX.VAL.FOOD.ZS.UN,food_exports_pct,9.268297007,Malaysia
+2018,TX.VAL.FOOD.ZS.UN,food_exports_pct,9.090188089,Malaysia
+2017,TX.VAL.FOOD.ZS.UN,food_exports_pct,11.02809025,Malaysia
+2016,TX.VAL.FOOD.ZS.UN,food_exports_pct,11.54855551,Malaysia
+2015,TX.VAL.FOOD.ZS.UN,food_exports_pct,10.83439658,Malaysia
+2014,TX.VAL.FOOD.ZS.UN,food_exports_pct,11.10808555,Malaysia
+2013,TX.VAL.FOOD.ZS.UN,food_exports_pct,10.99291166,Malaysia
+2024,TX.VAL.FOOD.ZS.UN,food_exports_pct,10.40992286,Philippines
+2023,TX.VAL.FOOD.ZS.UN,food_exports_pct,8.416371766,Philippines
+2022,TX.VAL.FOOD.ZS.UN,food_exports_pct,9.187186296,Philippines
+2021,TX.VAL.FOOD.ZS.UN,food_exports_pct,8.912959771,Philippines
+2020,TX.VAL.FOOD.ZS.UN,food_exports_pct,9.316113919,Philippines
+2019,TX.VAL.FOOD.ZS.UN,food_exports_pct,9.060907311,Philippines
+2018,TX.VAL.FOOD.ZS.UN,food_exports_pct,8.657875297,Philippines
+2017,TX.VAL.FOOD.ZS.UN,food_exports_pct,9.312224376,Philippines
+2016,TX.VAL.FOOD.ZS.UN,food_exports_pct,8.357741575,Philippines
+2015,TX.VAL.FOOD.ZS.UN,food_exports_pct,7.731460713,Philippines
+2014,TX.VAL.FOOD.ZS.UN,food_exports_pct,10.20537682,Philippines
+2013,TX.VAL.FOOD.ZS.UN,food_exports_pct,10.42168439,Philippines
+2024,TX.VAL.FOOD.ZS.UN,food_exports_pct,27.25449454,Sri Lanka
+2023,TX.VAL.FOOD.ZS.UN,food_exports_pct,25.70481701,Sri Lanka
+2022,TX.VAL.FOOD.ZS.UN,food_exports_pct,23.25269892,Sri Lanka
+2021,TX.VAL.FOOD.ZS.UN,food_exports_pct,25.64516069,Sri Lanka
+2020,TX.VAL.FOOD.ZS.UN,food_exports_pct,26.60093034,Sri Lanka
+2019,TX.VAL.FOOD.ZS.UN,food_exports_pct,23.72379844,Sri Lanka
+2018,TX.VAL.FOOD.ZS.UN,food_exports_pct,,Sri Lanka
+2017,TX.VAL.FOOD.ZS.UN,food_exports_pct,26.08690331,Sri Lanka
+2016,TX.VAL.FOOD.ZS.UN,food_exports_pct,25.12890811,Sri Lanka
+2015,TX.VAL.FOOD.ZS.UN,food_exports_pct,25.66415687,Sri Lanka
+2014,TX.VAL.FOOD.ZS.UN,food_exports_pct,26.39959592,Sri Lanka
+2013,TX.VAL.FOOD.ZS.UN,food_exports_pct,26.499621,Sri Lanka
+2024,TX.VAL.FOOD.ZS.UN,food_exports_pct,14.7199617,Thailand
+2023,TX.VAL.FOOD.ZS.UN,food_exports_pct,15.05651204,Thailand
+2022,TX.VAL.FOOD.ZS.UN,food_exports_pct,14.39703553,Thailand
+2021,TX.VAL.FOOD.ZS.UN,food_exports_pct,13.63772228,Thailand
+2020,TX.VAL.FOOD.ZS.UN,food_exports_pct,14.45089115,Thailand
+2019,TX.VAL.FOOD.ZS.UN,food_exports_pct,13.86075475,Thailand
+2018,TX.VAL.FOOD.ZS.UN,food_exports_pct,13.47979098,Thailand
+2017,TX.VAL.FOOD.ZS.UN,food_exports_pct,13.56999067,Thailand
+2016,TX.VAL.FOOD.ZS.UN,food_exports_pct,13.46657176,Thailand
+2015,TX.VAL.FOOD.ZS.UN,food_exports_pct,13.52848626,Thailand
+2014,TX.VAL.FOOD.ZS.UN,food_exports_pct,13.56510562,Thailand
+2013,TX.VAL.FOOD.ZS.UN,food_exports_pct,12.85139071,Thailand
+2024,TX.VAL.FOOD.ZS.UN,food_exports_pct,,Viet Nam
+2023,TX.VAL.FOOD.ZS.UN,food_exports_pct,9.362269037,Viet Nam
+2022,TX.VAL.FOOD.ZS.UN,food_exports_pct,8.171368997,Viet Nam
+2021,TX.VAL.FOOD.ZS.UN,food_exports_pct,8.153493529,Viet Nam
+2020,TX.VAL.FOOD.ZS.UN,food_exports_pct,8.781796541,Viet Nam
+2019,TX.VAL.FOOD.ZS.UN,food_exports_pct,9.416308934,Viet Nam
+2018,TX.VAL.FOOD.ZS.UN,food_exports_pct,10.63415881,Viet Nam
+2017,TX.VAL.FOOD.ZS.UN,food_exports_pct,12.11055674,Viet Nam
+2016,TX.VAL.FOOD.ZS.UN,food_exports_pct,12.87482015,Viet Nam
+2015,TX.VAL.FOOD.ZS.UN,food_exports_pct,12.95617564,Viet Nam
+2014,TX.VAL.FOOD.ZS.UN,food_exports_pct,14.81530781,Viet Nam
+2013,TX.VAL.FOOD.ZS.UN,food_exports_pct,14.44451732,Viet Nam
+2024,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,2.323848625,Cambodia
+2023,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,2.399947791,Cambodia
+2022,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.116982748,Cambodia
+2021,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.179182601,Cambodia
+2020,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.558161546,Cambodia
+2019,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.488076414,Cambodia
+2018,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.2739504,Cambodia
+2017,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.281044133,Cambodia
+2016,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.127397851,Cambodia
+2015,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.124488904,Cambodia
+2014,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.259411641,Cambodia
+2013,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.24245729,Cambodia
+2024,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,10.2519087,Indonesia
+2023,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,8.661758889,Indonesia
+2022,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,8.593720961,Indonesia
+2021,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,6.812698931,Indonesia
+2020,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,5.573116743,Indonesia
+2019,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,5.447375777,Indonesia
+2018,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,6.872276752,Indonesia
+2017,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,5.953723221,Indonesia
+2016,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,5.749876172,Indonesia
+2015,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,5.476434136,Indonesia
+2014,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,4.734889242,Indonesia
+2013,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,7.030949146,Indonesia
+2024,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,,Lao PDR
+2023,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,20.17902223,Lao PDR
+2022,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,16.10818948,Lao PDR
+2021,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,12.05664542,Lao PDR
+2020,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,15.73711329,Lao PDR
+2019,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,22.47768108,Lao PDR
+2018,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,26.34967625,Lao PDR
+2017,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,24.5288042,Lao PDR
+2016,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,36.92652358,Lao PDR
+2015,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,40.31519825,Lao PDR
+2014,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,46.8833425,Lao PDR
+2013,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,57.25484645,Lao PDR
+2024,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,3.696829991,Malaysia
+2023,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,3.790461848,Malaysia
+2022,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,3.945766918,Malaysia
+2021,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,4.718026008,Malaysia
+2020,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,3.502939746,Malaysia
+2019,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,3.86055943,Malaysia
+2018,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,4.266519046,Malaysia
+2017,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,3.947781085,Malaysia
+2016,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,3.854242852,Malaysia
+2015,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,3.925235484,Malaysia
+2014,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,2.877698154,Malaysia
+2013,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,3.292700102,Malaysia
+2024,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,7.509011055,Philippines
+2023,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,7.877617425,Philippines
+2022,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,6.934564431,Philippines
+2021,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,7.48747407,Philippines
+2020,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,6.595741782,Philippines
+2019,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,5.115535897,Philippines
+2018,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,4.908206851,Philippines
+2017,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,5.584065613,Philippines
+2016,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,4.00252117,Philippines
+2015,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,5.061376731,Philippines
+2014,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,6.588340242,Philippines
+2013,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,6.114047727,Philippines
+2024,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.566958694,Sri Lanka
+2023,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.599148181,Sri Lanka
+2022,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.677469669,Sri Lanka
+2021,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.681639263,Sri Lanka
+2020,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.552811054,Sri Lanka
+2019,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.738017127,Sri Lanka
+2018,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,,Sri Lanka
+2017,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.778839493,Sri Lanka
+2016,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.597589673,Sri Lanka
+2015,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.537232353,Sri Lanka
+2014,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.555241521,Sri Lanka
+2013,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.621745135,Sri Lanka
+2024,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,2.788989277,Thailand
+2023,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,2.335632488,Thailand
+2022,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,2.642633556,Thailand
+2021,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,2.560335245,Thailand
+2020,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.858142136,Thailand
+2019,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.649382165,Thailand
+2018,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.612555527,Thailand
+2017,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.483846171,Thailand
+2016,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.197894948,Thailand
+2015,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.1361874,Thailand
+2014,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.316381544,Thailand
+2013,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.285487542,Thailand
+2024,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,,Viet Nam
+2023,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.110537455,Viet Nam
+2022,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.175505547,Viet Nam
+2021,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.156839071,Viet Nam
+2020,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.054244381,Viet Nam
+2019,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.090681137,Viet Nam
+2018,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.129533154,Viet Nam
+2017,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,1.014998699,Viet Nam
+2016,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.824603887,Viet Nam
+2015,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.79711705,Viet Nam
+2014,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.786280339,Viet Nam
+2013,TX.VAL.MMTL.ZS.UN,ores_metals_exports_pct,0.710582349,Viet Nam
+2024,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,46.11140463,Cambodia
+2023,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,54.4507095,Cambodia
+2022,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,58.45821117,Cambodia
+2021,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,56.79893866,Cambodia
+2020,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,52.18809961,Cambodia
+2019,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,43.84206047,Cambodia
+2018,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,42.57902232,Cambodia
+2017,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,40.52473724,Cambodia
+2016,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,39.45395846,Cambodia
+2015,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,40.72301425,Cambodia
+2014,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,39.41284306,Cambodia
+2013,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,40.14210513,Cambodia
+2024,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,30.97299801,Indonesia
+2023,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,29.93537532,Indonesia
+2022,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,30.85273529,Indonesia
+2021,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,36.1990816,Indonesia
+2020,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,40.48995208,Indonesia
+2019,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,37.08299782,Indonesia
+2018,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,37.56396891,Indonesia
+2017,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,35.96453709,Indonesia
+2016,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,35.36990487,Indonesia
+2015,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,36.98786525,Indonesia
+2014,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,33.98183415,Indonesia
+2013,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,29.78187008,Indonesia
+2024,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,115.4044177,Lao PDR
+2023,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,122.9530168,Lao PDR
+2022,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,129.2315561,Lao PDR
+2021,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,105.3901031,Lao PDR
+2020,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,114.4584389,Lao PDR
+2019,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,107.8305072,Lao PDR
+2018,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,91.93200399,Lao PDR
+2017,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,93.22181147,Lao PDR
+2016,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,88.83463842,Lao PDR
+2015,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,83.34374742,Lao PDR
+2014,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,74.28733039,Lao PDR
+2013,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,70.37668032,Lao PDR
+2024,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,,Malaysia
+2023,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,,Malaysia
+2022,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,,Malaysia
+2021,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,,Malaysia
+2020,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,,Malaysia
+2019,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,,Malaysia
+2018,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,,Malaysia
+2017,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,,Malaysia
+2016,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,,Malaysia
+2015,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,,Malaysia
+2014,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,,Malaysia
+2013,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,,Malaysia
+2024,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,26.26045505,Philippines
+2023,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,25.66687258,Philippines
+2022,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,25.87529028,Philippines
+2021,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,26.1303952,Philippines
+2020,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,25.31163892,Philippines
+2019,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,20.35168421,Philippines
+2018,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,20.63999064,Philippines
+2017,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,20.17948483,Philippines
+2016,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,21.26389274,Philippines
+2015,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,23.34001823,Philippines
+2014,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,23.72074817,Philippines
+2013,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,24.1818488,Philippines
+2024,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,58.88970204,Sri Lanka
+2023,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,74.58865042,Sri Lanka
+2022,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,81.28090657,Sri Lanka
+2021,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,67.85643573,Sri Lanka
+2020,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,69.31319801,Sri Lanka
+2019,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,64.85484351,Sri Lanka
+2018,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,57.48928657,Sri Lanka
+2017,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,55.148252,Sri Lanka
+2016,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,54.38241777,Sri Lanka
+2015,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,52.87979147,Sri Lanka
+2014,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,52.3589317,Sri Lanka
+2013,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,52.2481961,Sri Lanka
+2024,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,37.48912082,Thailand
+2023,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,38.70708882,Thailand
+2022,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,41.89861107,Thailand
+2021,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,40.25205644,Thailand
+2020,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,38.18525157,Thailand
+2019,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,32.17690865,Thailand
+2018,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,35.68589602,Thailand
+2017,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,35.22982766,Thailand
+2016,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,33.2711075,Thailand
+2015,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,32.31480923,Thailand
+2014,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,38.02588005,Thailand
+2013,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,39.09678127,Thailand
+2024,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,28.84929811,Viet Nam
+2023,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,34.47907532,Viet Nam
+2022,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,37.25802815,Viet Nam
+2021,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,40.21921635,Viet Nam
+2020,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,39.02346795,Viet Nam
+2019,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,38.57321914,Viet Nam
+2018,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,38.26956407,Viet Nam
+2017,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,41.57012523,Viet Nam
+2016,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,37.24343688,Viet Nam
+2015,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,36.02765129,Viet Nam
+2014,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,33.27332736,Viet Nam
+2013,DT.DOD.DECT.GN.ZS,external_debt_stocks_pct_gni,32.10197227,Viet Nam
+2024,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Cambodia
+2023,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.807010896,Cambodia
+2022,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.81491673,Cambodia
+2021,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.926061874,Cambodia
+2020,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.677347947,Cambodia
+2019,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.433610263,Cambodia
+2018,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.400040849,Cambodia
+2017,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.304566666,Cambodia
+2016,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.268513922,Cambodia
+2015,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.00178003,Cambodia
+2014,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.092716497,Cambodia
+2013,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.115847462,Cambodia
+2024,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Indonesia
+2023,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,8.811321617,Indonesia
+2022,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,12.28583152,Indonesia
+2021,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,12.31101914,Indonesia
+2020,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,15.27015973,Indonesia
+2019,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,10.25765977,Indonesia
+2018,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,7.921043987,Indonesia
+2017,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,9.18370918,Indonesia
+2016,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,9.306190883,Indonesia
+2015,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,8.170235607,Indonesia
+2014,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,14.10690602,Indonesia
+2013,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,5.59809288,Indonesia
+2024,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Lao PDR
+2023,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,6.775631143,Lao PDR
+2022,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,5.362889222,Lao PDR
+2021,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,8.500356416,Lao PDR
+2020,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,10.00448646,Lao PDR
+2019,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,11.44929272,Lao PDR
+2018,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,10.14160065,Lao PDR
+2017,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,8.330274872,Lao PDR
+2016,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,7.216716967,Lao PDR
+2015,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,5.38566163,Lao PDR
+2014,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,5.343893661,Lao PDR
+2013,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,5.785215239,Lao PDR
+2024,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Malaysia
+2023,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Malaysia
+2022,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Malaysia
+2021,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Malaysia
+2020,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Malaysia
+2019,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Malaysia
+2018,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Malaysia
+2017,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Malaysia
+2016,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Malaysia
+2015,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Malaysia
+2014,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Malaysia
+2013,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Malaysia
+2024,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Philippines
+2023,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,5.223476045,Philippines
+2022,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,4.964173068,Philippines
+2021,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,7.788225991,Philippines
+2020,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,6.171917034,Philippines
+2019,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,6.044667314,Philippines
+2018,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,4.574588098,Philippines
+2017,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,5.414918981,Philippines
+2016,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,7.798448709,Philippines
+2015,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,6.830191328,Philippines
+2014,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,6.124713779,Philippines
+2013,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,7.163581668,Philippines
+2024,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Sri Lanka
+2023,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,10.25016836,Sri Lanka
+2022,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,13.33680147,Sri Lanka
+2021,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,27.9448928,Sri Lanka
+2020,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,33.0317159,Sri Lanka
+2019,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,25.39031018,Sri Lanka
+2018,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,21.71033507,Sri Lanka
+2017,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,19.22560024,Sri Lanka
+2016,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,14.63309375,Sri Lanka
+2015,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,17.37528185,Sri Lanka
+2014,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,24.2624871,Sri Lanka
+2013,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,11.95443262,Sri Lanka
+2024,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Thailand
+2023,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.485206811,Thailand
+2022,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,0.577451225,Thailand
+2021,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,0.395508708,Thailand
+2020,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,2.529977365,Thailand
+2019,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,0.690293808,Thailand
+2018,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,0.495167629,Thailand
+2017,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,0.271081042,Thailand
+2016,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,0.281436579,Thailand
+2015,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,0.772317115,Thailand
+2014,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,0.718571433,Thailand
+2013,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,0.805290218,Thailand
+2024,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,,Viet Nam
+2023,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.243200229,Viet Nam
+2022,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.141821037,Viet Nam
+2021,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.321985818,Viet Nam
+2020,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.753133803,Viet Nam
+2019,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.571725635,Viet Nam
+2018,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.589747765,Viet Nam
+2017,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.610722105,Viet Nam
+2016,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.929996256,Viet Nam
+2015,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.631289777,Viet Nam
+2014,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,2.238335426,Viet Nam
+2013,DT.TDS.DPPF.XP.ZS,debt_service_ppg_imf_pct_exports,1.891318937,Viet Nam
+2024,NY.GDP.MKTP.CD,gdp_current_usd,46352647037,Cambodia
+2023,NY.GDP.MKTP.CD,gdp_current_usd,42335646896,Cambodia
+2022,NY.GDP.MKTP.CD,gdp_current_usd,39994532960,Cambodia
+2021,NY.GDP.MKTP.CD,gdp_current_usd,36790163687,Cambodia
+2020,NY.GDP.MKTP.CD,gdp_current_usd,34818073901,Cambodia
+2019,NY.GDP.MKTP.CD,gdp_current_usd,36685356408,Cambodia
+2018,NY.GDP.MKTP.CD,gdp_current_usd,33145892169,Cambodia
+2017,NY.GDP.MKTP.CD,gdp_current_usd,29355665910,Cambodia
+2016,NY.GDP.MKTP.CD,gdp_current_usd,26556545153,Cambodia
+2015,NY.GDP.MKTP.CD,gdp_current_usd,24174170369,Cambodia
+2014,NY.GDP.MKTP.CD,gdp_current_usd,22041463968,Cambodia
+2013,NY.GDP.MKTP.CD,gdp_current_usd,19807135253,Cambodia
+2024,NY.GDP.MKTP.CD,gdp_current_usd,1.40E+12,Indonesia
+2023,NY.GDP.MKTP.CD,gdp_current_usd,1.37E+12,Indonesia
+2022,NY.GDP.MKTP.CD,gdp_current_usd,1.32E+12,Indonesia
+2021,NY.GDP.MKTP.CD,gdp_current_usd,1.19E+12,Indonesia
+2020,NY.GDP.MKTP.CD,gdp_current_usd,1.06E+12,Indonesia
+2019,NY.GDP.MKTP.CD,gdp_current_usd,1.12E+12,Indonesia
+2018,NY.GDP.MKTP.CD,gdp_current_usd,1.04E+12,Indonesia
+2017,NY.GDP.MKTP.CD,gdp_current_usd,1.02E+12,Indonesia
+2016,NY.GDP.MKTP.CD,gdp_current_usd,9.32E+11,Indonesia
+2015,NY.GDP.MKTP.CD,gdp_current_usd,8.61E+11,Indonesia
+2014,NY.GDP.MKTP.CD,gdp_current_usd,8.91E+11,Indonesia
+2013,NY.GDP.MKTP.CD,gdp_current_usd,9.13E+11,Indonesia
+2024,NY.GDP.MKTP.CD,gdp_current_usd,16502933121,Lao PDR
+2023,NY.GDP.MKTP.CD,gdp_current_usd,15843155731,Lao PDR
+2022,NY.GDP.MKTP.CD,gdp_current_usd,15468785204,Lao PDR
+2021,NY.GDP.MKTP.CD,gdp_current_usd,18827148531,Lao PDR
+2020,NY.GDP.MKTP.CD,gdp_current_usd,18981805250,Lao PDR
+2019,NY.GDP.MKTP.CD,gdp_current_usd,18740561513,Lao PDR
+2018,NY.GDP.MKTP.CD,gdp_current_usd,18141641090,Lao PDR
+2017,NY.GDP.MKTP.CD,gdp_current_usd,17071155481,Lao PDR
+2016,NY.GDP.MKTP.CD,gdp_current_usd,15912501723,Lao PDR
+2015,NY.GDP.MKTP.CD,gdp_current_usd,14426380126,Lao PDR
+2014,NY.GDP.MKTP.CD,gdp_current_usd,13279245886,Lao PDR
+2013,NY.GDP.MKTP.CD,gdp_current_usd,11983252627,Lao PDR
+2024,NY.GDP.MKTP.CD,gdp_current_usd,4.22E+11,Malaysia
+2023,NY.GDP.MKTP.CD,gdp_current_usd,4.00E+11,Malaysia
+2022,NY.GDP.MKTP.CD,gdp_current_usd,4.08E+11,Malaysia
+2021,NY.GDP.MKTP.CD,gdp_current_usd,3.74E+11,Malaysia
+2020,NY.GDP.MKTP.CD,gdp_current_usd,3.37E+11,Malaysia
+2019,NY.GDP.MKTP.CD,gdp_current_usd,3.65E+11,Malaysia
+2018,NY.GDP.MKTP.CD,gdp_current_usd,3.59E+11,Malaysia
+2017,NY.GDP.MKTP.CD,gdp_current_usd,3.19E+11,Malaysia
+2016,NY.GDP.MKTP.CD,gdp_current_usd,3.01E+11,Malaysia
+2015,NY.GDP.MKTP.CD,gdp_current_usd,3.01E+11,Malaysia
+2014,NY.GDP.MKTP.CD,gdp_current_usd,3.38E+11,Malaysia
+2013,NY.GDP.MKTP.CD,gdp_current_usd,3.23E+11,Malaysia
+2024,NY.GDP.MKTP.CD,gdp_current_usd,4.62E+11,Philippines
+2023,NY.GDP.MKTP.CD,gdp_current_usd,4.37E+11,Philippines
+2022,NY.GDP.MKTP.CD,gdp_current_usd,4.04E+11,Philippines
+2021,NY.GDP.MKTP.CD,gdp_current_usd,3.94E+11,Philippines
+2020,NY.GDP.MKTP.CD,gdp_current_usd,3.62E+11,Philippines
+2019,NY.GDP.MKTP.CD,gdp_current_usd,3.77E+11,Philippines
+2018,NY.GDP.MKTP.CD,gdp_current_usd,3.47E+11,Philippines
+2017,NY.GDP.MKTP.CD,gdp_current_usd,3.28E+11,Philippines
+2016,NY.GDP.MKTP.CD,gdp_current_usd,3.19E+11,Philippines
+2015,NY.GDP.MKTP.CD,gdp_current_usd,3.06E+11,Philippines
+2014,NY.GDP.MKTP.CD,gdp_current_usd,2.97E+11,Philippines
+2013,NY.GDP.MKTP.CD,gdp_current_usd,2.84E+11,Philippines
+2024,NY.GDP.MKTP.CD,gdp_current_usd,98963185510,Sri Lanka
+2023,NY.GDP.MKTP.CD,gdp_current_usd,83716142582,Sri Lanka
+2022,NY.GDP.MKTP.CD,gdp_current_usd,74143020263,Sri Lanka
+2021,NY.GDP.MKTP.CD,gdp_current_usd,88556698938,Sri Lanka
+2020,NY.GDP.MKTP.CD,gdp_current_usd,84335574582,Sri Lanka
+2019,NY.GDP.MKTP.CD,gdp_current_usd,88998706297,Sri Lanka
+2018,NY.GDP.MKTP.CD,gdp_current_usd,94450015983,Sri Lanka
+2017,NY.GDP.MKTP.CD,gdp_current_usd,94369350286,Sri Lanka
+2016,NY.GDP.MKTP.CD,gdp_current_usd,88000211172,Sri Lanka
+2015,NY.GDP.MKTP.CD,gdp_current_usd,85090301052,Sri Lanka
+2014,NY.GDP.MKTP.CD,gdp_current_usd,82531125191,Sri Lanka
+2013,NY.GDP.MKTP.CD,gdp_current_usd,76976203829,Sri Lanka
+2024,NY.GDP.MKTP.CD,gdp_current_usd,5.27E+11,Thailand
+2023,NY.GDP.MKTP.CD,gdp_current_usd,5.16E+11,Thailand
+2022,NY.GDP.MKTP.CD,gdp_current_usd,4.96E+11,Thailand
+2021,NY.GDP.MKTP.CD,gdp_current_usd,5.06E+11,Thailand
+2020,NY.GDP.MKTP.CD,gdp_current_usd,5.00E+11,Thailand
+2019,NY.GDP.MKTP.CD,gdp_current_usd,5.44E+11,Thailand
+2018,NY.GDP.MKTP.CD,gdp_current_usd,5.07E+11,Thailand
+2017,NY.GDP.MKTP.CD,gdp_current_usd,4.56E+11,Thailand
+2016,NY.GDP.MKTP.CD,gdp_current_usd,4.13E+11,Thailand
+2015,NY.GDP.MKTP.CD,gdp_current_usd,4.01E+11,Thailand
+2014,NY.GDP.MKTP.CD,gdp_current_usd,4.07E+11,Thailand
+2013,NY.GDP.MKTP.CD,gdp_current_usd,4.20E+11,Thailand
+2024,NY.GDP.MKTP.CD,gdp_current_usd,4.76E+11,Viet Nam
+2023,NY.GDP.MKTP.CD,gdp_current_usd,4.34E+11,Viet Nam
+2022,NY.GDP.MKTP.CD,gdp_current_usd,4.13E+11,Viet Nam
+2021,NY.GDP.MKTP.CD,gdp_current_usd,3.66E+11,Viet Nam
+2020,NY.GDP.MKTP.CD,gdp_current_usd,3.47E+11,Viet Nam
+2019,NY.GDP.MKTP.CD,gdp_current_usd,3.34E+11,Viet Nam
+2018,NY.GDP.MKTP.CD,gdp_current_usd,3.10E+11,Viet Nam
+2017,NY.GDP.MKTP.CD,gdp_current_usd,2.81E+11,Viet Nam
+2016,NY.GDP.MKTP.CD,gdp_current_usd,2.57E+11,Viet Nam
+2015,NY.GDP.MKTP.CD,gdp_current_usd,2.39E+11,Viet Nam
+2014,NY.GDP.MKTP.CD,gdp_current_usd,2.33E+11,Viet Nam
+2013,NY.GDP.MKTP.CD,gdp_current_usd,2.14E+11,Viet Nam
+2024,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.975109396,Cambodia
+2023,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.007330438,Cambodia
+2022,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.129901108,Cambodia
+2021,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,3.089842841,Cambodia
+2020,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,-3.555721934,Cambodia
+2019,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,7.936950136,Cambodia
+2018,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,8.776223762,Cambodia
+2017,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,8.075039155,Cambodia
+2016,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,7.905501161,Cambodia
+2015,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,7.207034725,Cambodia
+2014,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,8.000320746,Cambodia
+2013,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,7.857499755,Cambodia
+2024,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.030344694,Indonesia
+2023,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.049023318,Indonesia
+2022,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.307197227,Indonesia
+2021,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,3.702885628,Indonesia
+2020,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,-2.065511829,Indonesia
+2019,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.01928768,Indonesia
+2018,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.17429154,Indonesia
+2017,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.069785901,Indonesia
+2016,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.033069183,Indonesia
+2015,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,4.8763223,Indonesia
+2014,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.006668426,Indonesia
+2013,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.557263689,Indonesia
+2024,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,4.130192644,Lao PDR
+2023,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,3.745681402,Lao PDR
+2022,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,2.707426526,Lao PDR
+2021,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,2.528351005,Lao PDR
+2020,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,0.503031829,Lao PDR
+2019,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.457735092,Lao PDR
+2018,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.247960008,Lao PDR
+2017,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.892530873,Lao PDR
+2016,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,7.022836255,Lao PDR
+2015,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,7.270065844,Lao PDR
+2014,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,7.61196344,Lao PDR
+2013,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,8.026300227,Lao PDR
+2024,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.10545921,Malaysia
+2023,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,3.537063804,Malaysia
+2022,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,9.03173723,Malaysia
+2021,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,3.315349544,Malaysia
+2020,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,-5.456846584,Malaysia
+2019,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,4.413187421,Malaysia
+2018,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,4.843086976,Malaysia
+2017,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.81272241,Malaysia
+2016,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,4.449781398,Malaysia
+2015,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.091532422,Malaysia
+2014,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.006721946,Malaysia
+2013,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,4.693722526,Malaysia
+2024,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.692016128,Philippines
+2023,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.518949679,Philippines
+2022,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,7.580982128,Philippines
+2021,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.714733132,Philippines
+2020,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,-9.51829474,Philippines
+2019,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.118525662,Philippines
+2018,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.341485572,Philippines
+2017,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.930988326,Philippines
+2016,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,7.14945675,Philippines
+2015,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.348309717,Philippines
+2014,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.347987483,Philippines
+2013,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.750531301,Philippines
+2024,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.00871931,Sri Lanka
+2023,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,-2.32984819,Sri Lanka
+2022,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,-7.349193013,Sri Lanka
+2021,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,4.207476495,Sri Lanka
+2020,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,-4.624515037,Sri Lanka
+2019,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,-0.220483887,Sri Lanka
+2018,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,2.310084255,Sri Lanka
+2017,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.460681271,Sri Lanka
+2016,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.05362489,Sri Lanka
+2015,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,4.205955474,Sri Lanka
+2014,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.377978897,Sri Lanka
+2013,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,4.05174633,Sri Lanka
+2024,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,2.541820677,Thailand
+2023,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,2.017750953,Thailand
+2022,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,2.580378747,Thailand
+2021,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,1.552166084,Thailand
+2020,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,-6.050038469,Thailand
+2019,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,2.114557796,Thailand
+2018,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,4.222870287,Thailand
+2017,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,4.177681032,Thailand
+2016,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,3.435157717,Thailand
+2015,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,3.134047249,Thailand
+2014,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,0.984468864,Thailand
+2013,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,2.687495563,Thailand
+2024,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,7.091187466,Viet Nam
+2023,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.065023915,Viet Nam
+2022,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,8.537500468,Viet Nam
+2021,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,2.553728526,Viet Nam
+2020,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,2.865413209,Viet Nam
+2019,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,7.359262701,Viet Nam
+2018,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,7.465006856,Viet Nam
+2017,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.940190374,Viet Nam
+2016,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.690008927,Viet Nam
+2015,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.987154306,Viet Nam
+2014,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,6.422243121,Viet Nam
+2013,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct,5.55351081,Viet Nam
+2024,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2627.879698,Cambodia
+2023,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2429.748535,Cambodia
+2022,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2325.0305,Cambodia
+2021,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2167.403242,Cambodia
+2020,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2081.739142,Cambodia
+2019,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2225.877055,Cambodia
+2018,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2036.673776,Cambodia
+2017,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,1826.353917,Cambodia
+2016,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,1675.195557,Cambodia
+2015,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,1547.320104,Cambodia
+2014,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,1431.563965,Cambodia
+2013,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,1305.660097,Cambodia
+2024,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,4925.430488,Indonesia
+2023,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,4876.307745,Indonesia
+2022,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,4730.834848,Indonesia
+2021,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,4287.17314,Indonesia
+2020,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3853.702888,Indonesia
+2019,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,4106.948562,Indonesia
+2018,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3860.953531,Indonesia
+2017,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3798.883262,Indonesia
+2016,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3521.469435,Indonesia
+2015,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3288.222697,Indonesia
+2014,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3441.068085,Indonesia
+2013,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3566.602845,Indonesia
+2024,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2123.979094,Lao PDR
+2023,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2066.949798,Lao PDR
+2022,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2046.404403,Lao PDR
+2021,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2526.05105,Lao PDR
+2020,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2583.777307,Lao PDR
+2019,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2589.32081,Lao PDR
+2018,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2545.107542,Lao PDR
+2017,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2432.430595,Lao PDR
+2016,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2303.22156,Lao PDR
+2015,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2121.013391,Lao PDR
+2014,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,1981.039109,Lao PDR
+2013,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,1812.517744,Lao PDR
+2024,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,11874.42737,Malaysia
+2023,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,11386.03956,Malaysia
+2022,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,11754.56783,Malaysia
+2021,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,10903.10375,Malaysia
+2020,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,9957.526267,Malaysia
+2019,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,10920.19176,Malaysia
+2018,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,10901.802,Malaysia
+2017,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,9862.548066,Malaysia
+2016,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,9476.534098,Malaysia
+2015,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,9648.679794,Malaysia
+2014,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,11013.31073,Malaysia
+2013,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,10713.64076,Malaysia
+2024,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3984.831539,Philippines
+2023,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3804.082741,Philippines
+2022,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3548.069306,Philippines
+2021,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3484.385939,Philippines
+2020,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3227.579102,Philippines
+2019,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3400.789498,Philippines
+2018,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3168.510366,Philippines
+2017,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3038.12125,Philippines
+2016,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2985.19564,Philippines
+2015,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2909.85818,Philippines
+2014,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2866.838038,Philippines
+2013,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2781.279577,Philippines
+2024,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,4515.567873,Sri Lanka
+2023,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3798.890166,Sri Lanka
+2022,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3342.636503,Sri Lanka
+2021,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3996.9624,Sri Lanka
+2020,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3847.601377,Sri Lanka
+2019,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,4081.947727,Sri Lanka
+2018,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,4358.560959,Sri Lanka
+2017,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,4398.888281,Sri Lanka
+2016,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,4149.191908,Sri Lanka
+2015,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,4057.715835,Sri Lanka
+2014,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3972.043757,Sri Lanka
+2013,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3739.431811,Sri Lanka
+2024,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,7346.620221,Thailand
+2023,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,7195.101309,Thailand
+2022,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,6909.352818,Thailand
+2021,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,7057.207548,Thailand
+2020,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,6985.643939,Thailand
+2019,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,7605.696578,Thailand
+2018,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,7099.776501,Thailand
+2017,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,6413.091825,Thailand
+2016,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,5833.577156,Thailand
+2015,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,5688.853354,Thailand
+2014,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,5801.197892,Thailand
+2013,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,6018.082447,Thailand
+2024,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,4717.290287,Viet Nam
+2023,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,4323.35032,Viet Nam
+2022,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,4147.697772,Viet Nam
+2021,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3704.193559,Viet Nam
+2020,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3534.039535,Viet Nam
+2019,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3440.900254,Viet Nam
+2018,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,3222.310031,Viet Nam
+2017,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2956.109921,Viet Nam
+2016,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2735.060438,Viet Nam
+2015,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2577.568853,Viet Nam
+2014,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2546.384645,Viet Nam
+2013,NY.GDP.PCAP.CD,gdp_per_capita_current_usd,2359.517365,Viet Nam
+2024,BX.GSR.GNFS.CD,exports_goods_services_current_usd,31718256262,Cambodia
+2023,BX.GSR.GNFS.CD,exports_goods_services_current_usd,27752544025,Cambodia
+2022,BX.GSR.GNFS.CD,exports_goods_services_current_usd,25496861981,Cambodia
+2021,BX.GSR.GNFS.CD,exports_goods_services_current_usd,20178241057,Cambodia
+2020,BX.GSR.GNFS.CD,exports_goods_services_current_usd,20822677353,Cambodia
+2019,BX.GSR.GNFS.CD,exports_goods_services_current_usd,21072422248,Cambodia
+2018,BX.GSR.GNFS.CD,exports_goods_services_current_usd,18413935868,Cambodia
+2017,BX.GSR.GNFS.CD,exports_goods_services_current_usd,15831866523,Cambodia
+2016,BX.GSR.GNFS.CD,exports_goods_services_current_usd,14305832075,Cambodia
+2015,BX.GSR.GNFS.CD,exports_goods_services_current_usd,13291033923,Cambodia
+2014,BX.GSR.GNFS.CD,exports_goods_services_current_usd,11979344824,Cambodia
+2013,BX.GSR.GNFS.CD,exports_goods_services_current_usd,10537592348,Cambodia
+2024,BX.GSR.GNFS.CD,exports_goods_services_current_usd,3.02E+11,Indonesia
+2023,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.91E+11,Indonesia
+2022,BX.GSR.GNFS.CD,exports_goods_services_current_usd,3.16E+11,Indonesia
+2021,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.47E+11,Indonesia
+2020,BX.GSR.GNFS.CD,exports_goods_services_current_usd,1.78E+11,Indonesia
+2019,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.00E+11,Indonesia
+2018,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.12E+11,Indonesia
+2017,BX.GSR.GNFS.CD,exports_goods_services_current_usd,1.94E+11,Indonesia
+2016,BX.GSR.GNFS.CD,exports_goods_services_current_usd,1.68E+11,Indonesia
+2015,BX.GSR.GNFS.CD,exports_goods_services_current_usd,1.71E+11,Indonesia
+2014,BX.GSR.GNFS.CD,exports_goods_services_current_usd,1.99E+11,Indonesia
+2013,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.05E+11,Indonesia
+2024,BX.GSR.GNFS.CD,exports_goods_services_current_usd,11118080188,Lao PDR
+2023,BX.GSR.GNFS.CD,exports_goods_services_current_usd,9697753779,Lao PDR
+2022,BX.GSR.GNFS.CD,exports_goods_services_current_usd,8604347867,Lao PDR
+2021,BX.GSR.GNFS.CD,exports_goods_services_current_usd,7819856365,Lao PDR
+2020,BX.GSR.GNFS.CD,exports_goods_services_current_usd,6461495986,Lao PDR
+2019,BX.GSR.GNFS.CD,exports_goods_services_current_usd,6985183367,Lao PDR
+2018,BX.GSR.GNFS.CD,exports_goods_services_current_usd,6393172198,Lao PDR
+2017,BX.GSR.GNFS.CD,exports_goods_services_current_usd,5653716801,Lao PDR
+2016,BX.GSR.GNFS.CD,exports_goods_services_current_usd,5079427263,Lao PDR
+2015,BX.GSR.GNFS.CD,exports_goods_services_current_usd,4497378079,Lao PDR
+2014,BX.GSR.GNFS.CD,exports_goods_services_current_usd,4040904951,Lao PDR
+2013,BX.GSR.GNFS.CD,exports_goods_services_current_usd,3045096523,Lao PDR
+2024,BX.GSR.GNFS.CD,exports_goods_services_current_usd,3.02E+11,Malaysia
+2023,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.74E+11,Malaysia
+2022,BX.GSR.GNFS.CD,exports_goods_services_current_usd,3.13E+11,Malaysia
+2021,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.64E+11,Malaysia
+2020,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.08E+11,Malaysia
+2019,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.38E+11,Malaysia
+2018,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.46E+11,Malaysia
+2017,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.24E+11,Malaysia
+2016,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.01E+11,Malaysia
+2015,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.10E+11,Malaysia
+2014,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.50E+11,Malaysia
+2013,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.44E+11,Malaysia
+2024,BX.GSR.GNFS.CD,exports_goods_services_current_usd,1.06E+11,Philippines
+2023,BX.GSR.GNFS.CD,exports_goods_services_current_usd,1.04E+11,Philippines
+2022,BX.GSR.GNFS.CD,exports_goods_services_current_usd,98832118580,Philippines
+2021,BX.GSR.GNFS.CD,exports_goods_services_current_usd,87797928272,Philippines
+2020,BX.GSR.GNFS.CD,exports_goods_services_current_usd,80033714168,Philippines
+2019,BX.GSR.GNFS.CD,exports_goods_services_current_usd,94740948717,Philippines
+2018,BX.GSR.GNFS.CD,exports_goods_services_current_usd,90373832107,Philippines
+2017,BX.GSR.GNFS.CD,exports_goods_services_current_usd,86645909126,Philippines
+2016,BX.GSR.GNFS.CD,exports_goods_services_current_usd,73938028405,Philippines
+2015,BX.GSR.GNFS.CD,exports_goods_services_current_usd,72262154549,Philippines
+2014,BX.GSR.GNFS.CD,exports_goods_services_current_usd,75321793859,Philippines
+2013,BX.GSR.GNFS.CD,exports_goods_services_current_usd,67847557124,Philippines
+2024,BX.GSR.GNFS.CD,exports_goods_services_current_usd,19682053757,Sri Lanka
+2023,BX.GSR.GNFS.CD,exports_goods_services_current_usd,17326992659,Sri Lanka
+2022,BX.GSR.GNFS.CD,exports_goods_services_current_usd,16168761980,Sri Lanka
+2021,BX.GSR.GNFS.CD,exports_goods_services_current_usd,14973536498,Sri Lanka
+2020,BX.GSR.GNFS.CD,exports_goods_services_current_usd,13082799673,Sri Lanka
+2019,BX.GSR.GNFS.CD,exports_goods_services_current_usd,19414322724,Sri Lanka
+2018,BX.GSR.GNFS.CD,exports_goods_services_current_usd,20263792551,Sri Lanka
+2017,BX.GSR.GNFS.CD,exports_goods_services_current_usd,19084181007,Sri Lanka
+2016,BX.GSR.GNFS.CD,exports_goods_services_current_usd,17447855576,Sri Lanka
+2015,BX.GSR.GNFS.CD,exports_goods_services_current_usd,16943161924,Sri Lanka
+2014,BX.GSR.GNFS.CD,exports_goods_services_current_usd,16735027041,Sri Lanka
+2013,BX.GSR.GNFS.CD,exports_goods_services_current_usd,15079332738,Sri Lanka
+2024,BX.GSR.GNFS.CD,exports_goods_services_current_usd,3.69E+11,Thailand
+2023,BX.GSR.GNFS.CD,exports_goods_services_current_usd,3.39E+11,Thailand
+2022,BX.GSR.GNFS.CD,exports_goods_services_current_usd,3.24E+11,Thailand
+2021,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.95E+11,Thailand
+2020,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.57E+11,Thailand
+2019,BX.GSR.GNFS.CD,exports_goods_services_current_usd,3.24E+11,Thailand
+2018,BX.GSR.GNFS.CD,exports_goods_services_current_usd,3.29E+11,Thailand
+2017,BX.GSR.GNFS.CD,exports_goods_services_current_usd,3.05E+11,Thailand
+2016,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.77E+11,Thailand
+2015,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.71E+11,Thailand
+2014,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.79E+11,Thailand
+2013,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.82E+11,Thailand
+2024,BX.GSR.GNFS.CD,exports_goods_services_current_usd,4.32E+11,Viet Nam
+2023,BX.GSR.GNFS.CD,exports_goods_services_current_usd,3.75E+11,Viet Nam
+2022,BX.GSR.GNFS.CD,exports_goods_services_current_usd,3.85E+11,Viet Nam
+2021,BX.GSR.GNFS.CD,exports_goods_services_current_usd,3.40E+11,Viet Nam
+2020,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.90E+11,Viet Nam
+2019,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.81E+11,Viet Nam
+2018,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.58E+11,Viet Nam
+2017,BX.GSR.GNFS.CD,exports_goods_services_current_usd,2.28E+11,Viet Nam
+2016,BX.GSR.GNFS.CD,exports_goods_services_current_usd,1.89E+11,Viet Nam
+2015,BX.GSR.GNFS.CD,exports_goods_services_current_usd,1.73E+11,Viet Nam
+2014,BX.GSR.GNFS.CD,exports_goods_services_current_usd,1.61E+11,Viet Nam
+2013,BX.GSR.GNFS.CD,exports_goods_services_current_usd,1.43E+11,Viet Nam
+2024,BM.GSR.GNFS.CD,imports_goods_services_current_usd,34329032394,Cambodia
+2023,BM.GSR.GNFS.CD,imports_goods_services_current_usd,29420704837,Cambodia
+2022,BM.GSR.GNFS.CD,imports_goods_services_current_usd,34758832300,Cambodia
+2021,BM.GSR.GNFS.CD,imports_goods_services_current_usd,32815908352,Cambodia
+2020,BM.GSR.GNFS.CD,imports_goods_services_current_usd,23090657075,Cambodia
+2019,BM.GSR.GNFS.CD,imports_goods_services_current_usd,25515540745,Cambodia
+2018,BM.GSR.GNFS.CD,imports_goods_services_current_usd,21862726323,Cambodia
+2017,BM.GSR.GNFS.CD,imports_goods_services_current_usd,18246676110,Cambodia
+2016,BM.GSR.GNFS.CD,imports_goods_services_current_usd,16549913895,Cambodia
+2015,BM.GSR.GNFS.CD,imports_goods_services_current_usd,15527540570,Cambodia
+2014,BM.GSR.GNFS.CD,imports_goods_services_current_usd,14105741942,Cambodia
+2013,BM.GSR.GNFS.CD,imports_goods_services_current_usd,12470204824,Cambodia
+2024,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.81E+11,Indonesia
+2023,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.63E+11,Indonesia
+2022,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.73E+11,Indonesia
+2021,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.18E+11,Indonesia
+2020,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.60E+11,Indonesia
+2019,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.04E+11,Indonesia
+2018,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.19E+11,Indonesia
+2017,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.83E+11,Indonesia
+2016,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.60E+11,Indonesia
+2015,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.66E+11,Indonesia
+2014,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.02E+11,Indonesia
+2013,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.11E+11,Indonesia
+2024,BM.GSR.GNFS.CD,imports_goods_services_current_usd,9930019522,Lao PDR
+2023,BM.GSR.GNFS.CD,imports_goods_services_current_usd,8596486168,Lao PDR
+2022,BM.GSR.GNFS.CD,imports_goods_services_current_usd,7982515291,Lao PDR
+2021,BM.GSR.GNFS.CD,imports_goods_services_current_usd,6527097039,Lao PDR
+2020,BM.GSR.GNFS.CD,imports_goods_services_current_usd,5815879962,Lao PDR
+2019,BM.GSR.GNFS.CD,imports_goods_services_current_usd,7518168210,Lao PDR
+2018,BM.GSR.GNFS.CD,imports_goods_services_current_usd,7564020651,Lao PDR
+2017,BM.GSR.GNFS.CD,imports_goods_services_current_usd,6783669899,Lao PDR
+2016,BM.GSR.GNFS.CD,imports_goods_services_current_usd,6394790293,Lao PDR
+2015,BM.GSR.GNFS.CD,imports_goods_services_current_usd,6753813713,Lao PDR
+2014,BM.GSR.GNFS.CD,imports_goods_services_current_usd,6125963674,Lao PDR
+2013,BM.GSR.GNFS.CD,imports_goods_services_current_usd,4108061764,Lao PDR
+2024,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.79E+11,Malaysia
+2023,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.54E+11,Malaysia
+2022,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.84E+11,Malaysia
+2021,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.37E+11,Malaysia
+2020,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.87E+11,Malaysia
+2019,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.11E+11,Malaysia
+2018,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.22E+11,Malaysia
+2017,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.02E+11,Malaysia
+2016,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.81E+11,Malaysia
+2015,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.87E+11,Malaysia
+2014,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.18E+11,Malaysia
+2013,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.17E+11,Malaysia
+2024,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.61E+11,Philippines
+2023,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.51E+11,Philippines
+2022,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.53E+11,Philippines
+2021,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.27E+11,Philippines
+2020,BM.GSR.GNFS.CD,imports_goods_services_current_usd,99942619162,Philippines
+2019,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.31E+11,Philippines
+2018,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.30E+11,Philippines
+2017,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.18E+11,Philippines
+2016,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.02E+11,Philippines
+2015,BM.GSR.GNFS.CD,imports_goods_services_current_usd,90116539579,Philippines
+2014,BM.GSR.GNFS.CD,imports_goods_services_current_usd,88075721020,Philippines
+2013,BM.GSR.GNFS.CD,imports_goods_services_current_usd,78494762234,Philippines
+2024,BM.GSR.GNFS.CD,imports_goods_services_current_usd,22316553880,Sri Lanka
+2023,BM.GSR.GNFS.CD,imports_goods_services_current_usd,19174460576,Sri Lanka
+2022,BM.GSR.GNFS.CD,imports_goods_services_current_usd,19243716669,Sri Lanka
+2021,BM.GSR.GNFS.CD,imports_goods_services_current_usd,21526033206,Sri Lanka
+2020,BM.GSR.GNFS.CD,imports_goods_services_current_usd,18271335897,Sri Lanka
+2019,BM.GSR.GNFS.CD,imports_goods_services_current_usd,24561990206,Sri Lanka
+2018,BM.GSR.GNFS.CD,imports_goods_services_current_usd,26840586809,Sri Lanka
+2017,BM.GSR.GNFS.CD,imports_goods_services_current_usd,25401229000,Sri Lanka
+2016,BM.GSR.GNFS.CD,imports_goods_services_current_usd,23441724091,Sri Lanka
+2015,BM.GSR.GNFS.CD,imports_goods_services_current_usd,23006476594,Sri Lanka
+2014,BM.GSR.GNFS.CD,imports_goods_services_current_usd,23141633499,Sri Lanka
+2013,BM.GSR.GNFS.CD,imports_goods_services_current_usd,21507989961,Sri Lanka
+2024,BM.GSR.GNFS.CD,imports_goods_services_current_usd,3.50E+11,Thailand
+2023,BM.GSR.GNFS.CD,imports_goods_services_current_usd,3.27E+11,Thailand
+2022,BM.GSR.GNFS.CD,imports_goods_services_current_usd,3.34E+11,Thailand
+2021,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.97E+11,Thailand
+2020,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.32E+11,Thailand
+2019,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.73E+11,Thailand
+2018,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.84E+11,Thailand
+2017,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.48E+11,Thailand
+2016,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.21E+11,Thailand
+2015,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.30E+11,Thailand
+2014,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.55E+11,Thailand
+2013,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.75E+11,Thailand
+2024,BM.GSR.GNFS.CD,imports_goods_services_current_usd,3.99E+11,Viet Nam
+2023,BM.GSR.GNFS.CD,imports_goods_services_current_usd,3.40E+11,Viet Nam
+2022,BM.GSR.GNFS.CD,imports_goods_services_current_usd,3.70E+11,Viet Nam
+2021,BM.GSR.GNFS.CD,imports_goods_services_current_usd,3.38E+11,Viet Nam
+2020,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.70E+11,Viet Nam
+2019,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.62E+11,Viet Nam
+2018,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.46E+11,Viet Nam
+2017,BM.GSR.GNFS.CD,imports_goods_services_current_usd,2.21E+11,Viet Nam
+2016,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.82E+11,Viet Nam
+2015,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.71E+11,Viet Nam
+2014,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.53E+11,Viet Nam
+2013,BM.GSR.GNFS.CD,imports_goods_services_current_usd,1.37E+11,Viet Nam
+2013,"120055781	","exports_to_china	","1818181	","Philippines	"
+2014,"120055781	","exports_to_china	","2098413.2158	","Philippines	"
+2015,"120055781	","exports_to_china	","1896565.4	","Philippines	"
+2016,"120055781	","exports_to_china	","1739589.1	","Philippines	"
+2017,"120055781	","exports_to_china	","1923917.7	","Philippines	"
+2018,"120055781	","exports_to_china	","2061160	","Philippines	"
+2019,"120055781	","exports_to_china	","2019939.3176	","Philippines	"
+2020,"120055781	","exports_to_china	","1933547.0519	","Philippines	"
+2021,"120055781	","exports_to_china	","2476131	","Philippines	"
+2022,"120055781	","exports_to_china	","2301822	","Philippines	"
+2023,"120055781	","exports_to_china	","1947728	","Philippines	"
+2024,"120055781	","exports_to_china	","1933155	","Philippines	"
+2013,"120056008	","imports_from_china	","1986812.5	","Philippines	"
+2014,"120056008	","imports_from_china	","2347357.7223	","Philippines	"
+2015,"120056008	","imports_from_china	","2667079.1	","Philippines	"
+2016,"120056008	","imports_from_china	","2984266.6	","Philippines	"
+2017,"120056008	","imports_from_china	","3206593.2	","Philippines	"
+2018,"120056008	","imports_from_china	","3503664.2	","Philippines	"
+2019,"120056008	","imports_from_china	","4076385.1931	","Philippines	"
+2020,"120056008	","imports_from_china	","4188170.9679	","Philippines	"
+2021,"120056008	","imports_from_china	","5728534	","Philippines	"
+2022,"120056008	","imports_from_china	","6347102	","Philippines	"
+2023,"120056008	","imports_from_china	","5239638	","Philippines	"
+2024,"120056008	","imports_from_china	","5226405	","Philippines	"
+2013,"120056834	","realised_fdi_from_china	","6726	","Philippines	"
+2014,"120056834	","realised_fdi_from_china	","9707	","Philippines	"
+2015,"120056834	","realised_fdi_from_china	","3867	","Philippines	"
+2016,"120056834	","realised_fdi_from_china	","7760	","Philippines	"
+2017,"120056834	","realised_fdi_from_china	","500	","Philippines	"
+2018,"120056834	","realised_fdi_from_china	","4986	","Philippines	"
+2019,"120056834	","realised_fdi_from_china	","1383	","Philippines	"
+2020,"120056834	","realised_fdi_from_china	","2364	","Philippines	"
+2021,"120056834	","realised_fdi_from_china	","941	","Philippines	"
+2022,"120056834	","realised_fdi_from_china	","1493	","Philippines	"
+2023,"120056834	","realised_fdi_from_china	","2205	","Philippines	"
+2024,"120056834	","realised_fdi_from_china	","5587	","Philippines	"
+2013,"WB01142896	","port_container_throughput 	","5955137	","Philippines	"
+2014,"WB01142896	","port_container_throughput 	","6216752	","Philippines	"
+2015,"WB01142896	","port_container_throughput 	","7175424	","Philippines	"
+2016,"WB01142896	","port_container_throughput 	","7560607	","Philippines	"
+2017,"WB01142896	","port_container_throughput 	","8249852	","Philippines	"
+2018,"WB01142896	","port_container_throughput 	","8859565	","Philippines	"
+2019,"WB01142896	","port_container_throughput 	","9333428	","Philippines	"
+2020,"WB01142896	","port_container_throughput 	","8019642	","Philippines	"
+2021,"WB01142896	","port_container_throughput 	","8674859	","Philippines	"
+2022,"WB01142896	","port_container_throughput 	","9249451	","Philippines	"
+2013,"120055803	","exports_to_china	","36363.5	","Cambodia	"
+2014,"120055803	","exports_to_china	","48291.4653	","Cambodia	"
+2015,"120055803	","exports_to_china	","66659.5	","Cambodia	"
+2016,"120055803	","exports_to_china	","83051.3	","Cambodia	"
+2017,"120055803	","exports_to_china	","100758.2	","Cambodia	"
+2018,"120055803	","exports_to_china	","137665.5	","Cambodia	"
+2019,"120055803	","exports_to_china	","144432.3229	","Cambodia	"
+2020,"120055803	","exports_to_china	","149748.6585	","Cambodia	"
+2021,"120055803	","exports_to_china	","210043	","Cambodia	"
+2022,"120055803	","exports_to_china	","183820	","Cambodia	"
+2023,"120055803	","exports_to_china	","207030	","Cambodia	"
+2024,"120055803	","exports_to_china	","249891	","Cambodia	"
+2013,"120056030	","imports_from_china	","340950.7	","Cambodia	"
+2014,"120056030	","imports_from_china	","327473.7955	","Cambodia	"
+2015,"120056030	","imports_from_china	","376339.1	","Cambodia	"
+2016,"120056030	","imports_from_china	","393015.5	","Cambodia	"
+2017,"120056030	","imports_from_china	","478319.8	","Cambodia	"
+2018,"120056030	","imports_from_china	","600752.3	","Cambodia	"
+2019,"120056030	","imports_from_china	","798153.0879	","Cambodia	"
+2020,"120056030	","imports_from_china	","805448.9807	","Cambodia	"
+2021,"120056030	","imports_from_china	","1156509	","Cambodia	"
+2022,"120056030	","imports_from_china	","1393798	","Cambodia	"
+2023,"120056030	","imports_from_china	","1275200	","Cambodia	"
+2024,"120056030	","imports_from_china	","1532558	","Cambodia	"
+2013,"120056852	","realised_fdi_from_china	","2251	","Cambodia	"
+2014,"120056852	","realised_fdi_from_china	","312	","Cambodia	"
+2015,"120056852	","realised_fdi_from_china	","1000	","Cambodia	"
+2017,"120056852	","realised_fdi_from_china	","1505	","Cambodia	"
+2018,"120056852	","realised_fdi_from_china	","199	","Cambodia	"
+2019,"120056852	","realised_fdi_from_china	","5755	","Cambodia	"
+2020,"120056852	","realised_fdi_from_china	","3761	","Cambodia	"
+2021,"120056852	","realised_fdi_from_china	","3369	","Cambodia	"
+2022,"120056852	","realised_fdi_from_china	","5217	","Cambodia	"
+2023,"120056852	","realised_fdi_from_china	","5915	","Cambodia	"
+2024,"120056852	","realised_fdi_from_china	","270	","Cambodia	"
+2013,"WB01142831	","port_container_throughput 	","286450	","Cambodia	"
+2014,"WB01142831	","port_container_throughput 	","330000	","Cambodia	"
+2015,"WB01142831	","port_container_throughput 	","392000	","Cambodia	"
+2016,"WB01142831	","port_container_throughput 	","400187	","Cambodia	"
+2017,"WB01142831	","port_container_throughput 	","459835	","Cambodia	"
+2018,"WB01142831	","port_container_throughput 	","537107	","Cambodia	"
+2019,"WB01142831	","port_container_throughput 	","639211	","Cambodia	"
+2020,"WB01142831	","port_container_throughput 	","641842	","Cambodia	"
+2021,"WB01142831	","port_container_throughput 	","732387	","Cambodia	"
+2017,"120009842	","realised_fdi_from_china	","1082	","Lao PDR	"
+2018,"120009842	","realised_fdi_from_china	","51	","Lao PDR	"
+2022,"120009842	","realised_fdi_from_china	","18	","Lao PDR	"
+2023,"120009842	","realised_fdi_from_china	","30	","Lao PDR	"
+2024,"120009842	","realised_fdi_from_china	","524	","Lao PDR	"
+2013,"120055791	","exports_to_china	","101007.9	","Lao PDR	"
+2014,"120055791	","exports_to_china	","177788.3187	","Lao PDR	"
+2015,"120055791	","exports_to_china	","154734.1	","Lao PDR	"
+2016,"120055791	","exports_to_china	","135960.8	","Lao PDR	"
+2017,"120055791	","exports_to_china	","160499.7	","Lao PDR	"
+2018,"120055791	","exports_to_china	","201815.3	","Lao PDR	"
+2019,"120055791	","exports_to_china	","215700.039	","Lao PDR	"
+2020,"120055791	","exports_to_china	","208828.934	","Lao PDR	"
+2021,"120055791	","exports_to_china	","267570	","Lao PDR	"
+2022,"120055791	","exports_to_china	","335127	","Lao PDR	"
+2023,"120055791	","exports_to_china	","375394	","Lao PDR	"
+2024,"120055791	","exports_to_china	","455468	","Lao PDR	"
+2013,"120056018	","imports_from_china	","172257.7	","Lao PDR	"
+2014,"120056018	","imports_from_china	","183947.508	","Lao PDR	"
+2015,"120056018	","imports_from_china	","122575.8	","Lao PDR	"
+2016,"120056018	","imports_from_china	","98709.8	","Lao PDR	"
+2017,"120056018	","imports_from_china	","141935.1	","Lao PDR	"
+2018,"120056018	","imports_from_china	","145399.5	","Lao PDR	"
+2019,"120056018	","imports_from_china	","176245.3821	","Lao PDR	"
+2020,"120056018	","imports_from_china	","149127.7597	","Lao PDR	"
+2021,"120056018	","imports_from_china	","166677	","Lao PDR	"
+2022,"120056018	","imports_from_china	","226671	","Lao PDR	"
+2023,"120056018	","imports_from_china	","334830	","Lao PDR	"
+2024,"120056018	","imports_from_china	","367590	","Lao PDR	"
+2013,"120055788	","exports_to_china	","6015278.6	","Malaysia	"
+2014,"120055788	","exports_to_china	","5565224.2622	","Malaysia	"
+2015,"120055788	","exports_to_china	","5327733.1	","Malaysia	"
+2016,"120055788	","exports_to_china	","4926963.7	","Malaysia	"
+2017,"120055788	","exports_to_china	","5442613.9	","Malaysia	"
+2018,"120055788	","exports_to_china	","6320504.6	","Malaysia	"
+2019,"120055788	","exports_to_china	","7190997.5137	","Malaysia	"
+2020,"120055788	","exports_to_china	","7517442.1604	","Malaysia	"
+2021,"120055788	","exports_to_china	","9830508	","Malaysia	"
+2022,"120055788	","exports_to_china	","10983860	","Malaysia	"
+2023,"120055788	","exports_to_china	","10292983	","Malaysia	"
+2024,"120055788	","exports_to_china	","11055038	","Malaysia	"
+2013,"120056015	","imports_from_china	","4593059.1	","Malaysia	"
+2014,"120056015	","imports_from_china	","4635338.7874	","Malaysia	"
+2015,"120056015	","imports_from_china	","4398038.7	","Malaysia	"
+2016,"120056015	","imports_from_china	","3767177.5	","Malaysia	"
+2017,"120056015	","imports_from_china	","4171227.7	","Malaysia	"
+2018,"120056015	","imports_from_china	","4537598.7	","Malaysia	"
+2019,"120056015	","imports_from_china	","5214178.1876	","Malaysia	"
+2020,"120056015	","imports_from_china	","5630131.4831	","Malaysia	"
+2021,"120056015	","imports_from_china	","7865488	","Malaysia	"
+2022,"120056015	","imports_from_china	","9171921	","Malaysia	"
+2023,"120056015	","imports_from_china	","8736913	","Malaysia	"
+2024,"120056015	","imports_from_china	","10145677	","Malaysia	"
+2013,"120056838	","realised_fdi_from_china	","28053	","Malaysia	"
+2014,"120056838	","realised_fdi_from_china	","15749	","Malaysia	"
+2015,"120056838	","realised_fdi_from_china	","48048	","Malaysia	"
+2016,"120056838	","realised_fdi_from_china	","22113	","Malaysia	"
+2017,"120056838	","realised_fdi_from_china	","10836	","Malaysia	"
+2018,"120056838	","realised_fdi_from_china	","21162	","Malaysia	"
+2019,"120056838	","realised_fdi_from_china	","7013	","Malaysia	"
+2020,"120056838	","realised_fdi_from_china	","7810	","Malaysia	"
+2021,"120056838	","realised_fdi_from_china	","5770	","Malaysia	"
+2022,"120056838	","realised_fdi_from_china	","112697	","Malaysia	"
+2023,"120056838	","realised_fdi_from_china	","21069	","Malaysia	"
+2024,"120056838	","realised_fdi_from_china	","28298	","Malaysia	"
+2013,"WB01142878	","port_container_throughput 	","20876442	","Malaysia	"
+2014,"WB01142878	","port_container_throughput 	","22366426	","Malaysia	"
+2015,"WB01142878	","port_container_throughput 	","24012959	","Malaysia	"
+2016,"WB01142878	","port_container_throughput 	","24569452	","Malaysia	"
+2017,"WB01142878	","port_container_throughput 	","23719787	","Malaysia	"
+2018,"WB01142878	","port_container_throughput 	","24955994	","Malaysia	"
+2019,"WB01142878	","port_container_throughput 	","26215322	","Malaysia	"
+2020,"WB01142878	","port_container_throughput 	","26669483	","Malaysia	"
+2021,"WB01142878	","port_container_throughput 	","28261849	","Malaysia	"
+2022,"WB01142878	","port_container_throughput 	","27293935	","Malaysia	"
+2013,"120055776	","exports_to_china	","18256.4	","Sri Lanka	"
+2014,"120055776	","exports_to_china	","24827.2984	","Sri Lanka	"
+2015,"120055776	","exports_to_china	","25851.6	","Sri Lanka	"
+2016,"120055776	","exports_to_china	","27344.4	","Sri Lanka	"
+2017,"120055776	","exports_to_china	","31003	","Sri Lanka	"
+2018,"120055776	","exports_to_china	","32174.5	","Sri Lanka	"
+2019,"120055776	","exports_to_china	","39700.8323	","Sri Lanka	"
+2020,"120055776	","exports_to_china	","31776.3285	","Sri Lanka	"
+2021,"120055776	","exports_to_china	","65045	","Sri Lanka	"
+2022,"120055776	","exports_to_china	","49493	","Sri Lanka	"
+2023,"120055776	","exports_to_china	","35612	","Sri Lanka	"
+2024,"120055776	","exports_to_china	","39181	","Sri Lanka	"
+2013,"120056003	","imports_from_china	","343654.9	","Sri Lanka	"
+2014,"120056003	","imports_from_china	","379279.7469	","Sri Lanka	"
+2015,"120056003	","imports_from_china	","430404.5	","Sri Lanka	"
+2016,"120056003	","imports_from_china	","428832.9	","Sri Lanka	"
+2017,"120056003	","imports_from_china	","408799.6	","Sri Lanka	"
+2018,"120056003	","imports_from_china	","425504.9	","Sri Lanka	"
+2019,"120056003	","imports_from_china	","409060.6391	","Sri Lanka	"
+2020,"120056003	","imports_from_china	","384272.8983	","Sri Lanka	"
+2021,"120056003	","imports_from_china	","525443	","Sri Lanka	"
+2022,"120056003	","imports_from_china	","369644	","Sri Lanka	"
+2023,"120056003	","imports_from_china	","375543	","Sri Lanka	"
+2024,"120056003	","imports_from_china	","496870	","Sri Lanka	"
+2015,"120056830	","realised_fdi_from_china	","3	","Sri Lanka	"
+2016,"120056830	","realised_fdi_from_china	","20	","Sri Lanka	"
+2017,"120056830	","realised_fdi_from_china	","22	","Sri Lanka	"
+2021,"120056830	","realised_fdi_from_china	","63	","Sri Lanka	"
+2013,"WB01142847	","port_container_throughput 	","4306206	","Sri Lanka	"
+2014,"WB01142847	","port_container_throughput 	","4907901	","Sri Lanka	"
+2015,"WB01142847	","port_container_throughput 	","5185000	","Sri Lanka	"
+2016,"WB01142847	","port_container_throughput 	","5734000	","Sri Lanka	"
+2017,"WB01142847	","port_container_throughput 	","6200000	","Sri Lanka	"
+2018,"WB01142847	","port_container_throughput 	","7000000	","Sri Lanka	"
+2019,"WB01142847	","port_container_throughput 	","7230000	","Sri Lanka	"
+2020,"WB01142847	","port_container_throughput 	","6850000	","Sri Lanka	"
+2021,"WB01142847	","port_container_throughput 	","7250000	","Sri Lanka	"
+2022,"WB01142847	","port_container_throughput 	","6860000	","Sri Lanka	"
+2013,"120055774	","exports_to_china	","3852264.6	","Thailand	"
+2014,"120055774	","exports_to_china	","3833192.8398	","Thailand	"
+2015,"120055774	","exports_to_china	","3716874.5	","Thailand	"
+2016,"120055774	","exports_to_china	","3853234.3	","Thailand	"
+2017,"120055774	","exports_to_china	","4159608.3	","Thailand	"
+2018,"120055774	","exports_to_china	","4462963.7	","Thailand	"
+2019,"120055774	","exports_to_china	","4616164.9902	","Thailand	"
+2020,"120055774	","exports_to_china	","4813973.7245	","Thailand	"
+2021,"120055774	","exports_to_china	","6183263	","Thailand	"
+2022,"120055774	","exports_to_china	","5655290	","Thailand	"
+2023,"120055774	","exports_to_china	","5055010	","Thailand	"
+2024,"120055774	","exports_to_china	","4788765	","Thailand	"
+2013,"120056001	","imports_from_china	","3271790.4	","Thailand	"
+2014,"120056001	","imports_from_china	","3428922.7963	","Thailand	"
+2015,"120056001	","imports_from_china	","3829080.4	","Thailand	"
+2016,"120056001	","imports_from_china	","3719508.4	","Thailand	"
+2017,"120056001	","imports_from_china	","3854172.7	","Thailand	"
+2018,"120056001	","imports_from_china	","4287871.7	","Thailand	"
+2019,"120056001	","imports_from_china	","4558483.8927	","Thailand	"
+2020,"120056001	","imports_from_china	","5051423.9522	","Thailand	"
+2021,"120056001	","imports_from_china	","6935458	","Thailand	"
+2022,"120056001	","imports_from_china	","7721773	","Thailand	"
+2023,"120056001	","imports_from_china	","7572519	","Thailand	"
+2024,"120056001	","imports_from_china	","8602684	","Thailand	"
+2013,"120056828	","realised_fdi_from_china	","48305	","Thailand	"
+2014,"120056828	","realised_fdi_from_china	","6052	","Thailand	"
+2015,"120056828	","realised_fdi_from_china	","4438	","Thailand	"
+2016,"120056828	","realised_fdi_from_china	","5615	","Thailand	"
+2017,"120056828	","realised_fdi_from_china	","11023	","Thailand	"
+2018,"120056828	","realised_fdi_from_china	","4574	","Thailand	"
+2019,"120056828	","realised_fdi_from_china	","10580	","Thailand	"
+2020,"120056828	","realised_fdi_from_china	","10861	","Thailand	"
+2021,"120056828	","realised_fdi_from_china	","10741	","Thailand	"
+2022,"120056828	","realised_fdi_from_china	","6809	","Thailand	"
+2023,"120056828	","realised_fdi_from_china	","5277	","Thailand	"
+2024,"120056828	","realised_fdi_from_china	","14778	","Thailand	"
+2013,"WB01142941	","port_container_throughput 	","8067988	","Thailand	"
+2014,"WB01142941	","port_container_throughput 	","8664572	","Thailand	"
+2015,"WB01142941	","port_container_throughput 	","8883542	","Thailand	"
+2016,"WB01142941	","port_container_throughput 	","9340560	","Thailand	"
+2017,"WB01142941	","port_container_throughput 	","9938881	","Thailand	"
+2018,"WB01142941	","port_container_throughput 	","10371645	","Thailand	"
+2019,"WB01142941	","port_container_throughput 	","10130294	","Thailand	"
+2020,"WB01142941	","port_container_throughput 	","9568488	","Thailand	"
+2021,"WB01142941	","port_container_throughput 	","10436689	","Thailand	"
+2022,"WB01142941	","port_container_throughput 	","10497112	","Thailand	"
+2013,"120055798	","exports_to_china	","3142426.2	","Indonesia	"
+2014,"120055798	","exports_to_china	","2448524.6982	","Indonesia	"
+2015,"120055798	","exports_to_china	","1988619.4	","Indonesia	"
+2016,"120055798	","exports_to_china	","2141403.6	","Indonesia	"
+2017,"120055798	","exports_to_china	","2857430.6	","Indonesia	"
+2018,"120055798	","exports_to_china	","3414977.6	","Indonesia	"
+2019,"120055798	","exports_to_china	","3411387.4419	","Indonesia	"
+2020,"120055798	","exports_to_china	","3748185.2148	","Indonesia	"
+2021,"120055798	","exports_to_china	","6392283	","Indonesia	"
+2022,"120055798	","exports_to_china	","7789081	","Indonesia	"
+2023,"120055798	","exports_to_china	","7407424	","Indonesia	"
+2024,"120055798	","exports_to_china	","7104656	","Indonesia	"
+2013,"120056025	","imports_from_china	","3693048.7	","Indonesia	"
+2014,"120056025	","imports_from_china	","3905960.5524	","Indonesia	"
+2015,"120056025	","imports_from_china	","3434196.5	","Indonesia	"
+2016,"120056025	","imports_from_china	","3212612.7	","Indonesia	"
+2017,"120056025	","imports_from_china	","3475738.5	","Indonesia	"
+2018,"120056025	","imports_from_china	","4319140.5	","Indonesia	"
+2019,"120056025	","imports_from_china	","4564873.7002	","Indonesia	"
+2020,"120056025	","imports_from_china	","4098122.5324	","Indonesia	"
+2021,"120056025	","imports_from_china	","6064749	","Indonesia	"
+2022,"120056025	","imports_from_china	","7064104	","Indonesia	"
+2023,"120056025	","imports_from_china	","6519192	","Indonesia	"
+2024,"120056025	","imports_from_china	","7666906	","Indonesia	"
+2013,"120056847	","realised_fdi_from_china	","12623	","Indonesia	"
+2014,"120056847	","realised_fdi_from_china	","7802	","Indonesia	"
+2015,"120056847	","realised_fdi_from_china	","10754	","Indonesia	"
+2016,"120056847	","realised_fdi_from_china	","6399	","Indonesia	"
+2017,"120056847	","realised_fdi_from_china	","4076	","Indonesia	"
+2018,"120056847	","realised_fdi_from_china	","3246	","Indonesia	"
+2019,"120056847	","realised_fdi_from_china	","1242	","Indonesia	"
+2020,"120056847	","realised_fdi_from_china	","1334	","Indonesia	"
+2021,"120056847	","realised_fdi_from_china	","2434	","Indonesia	"
+2022,"120056847	","realised_fdi_from_china	","3750	","Indonesia	"
+2023,"120056847	","realised_fdi_from_china	","15203	","Indonesia	"
+2024,"120056847	","realised_fdi_from_china	","8480	","Indonesia	"
+2013,"WB01142814	","port_container_throughput 	","11435324	","Indonesia	"
+2014,"WB01142814	","port_container_throughput 	","10938117	","Indonesia	"
+2015,"WB01142814	","port_container_throughput 	","10011420	","Indonesia	"
+2016,"WB01142814	","port_container_throughput 	","10535691	","Indonesia	"
+2017,"WB01142814	","port_container_throughput 	","12076306	","Indonesia	"
+2018,"WB01142814	","port_container_throughput 	","12532311	","Indonesia	"
+2019,"WB01142814	","port_container_throughput 	","12615422	","Indonesia	"
+2020,"WB01142814	","port_container_throughput 	","11673708	","Indonesia	"
+2021,"WB01142814	","port_container_throughput 	","12910700	","Indonesia	"
+2022,"WB01142814	","port_container_throughput 	","12380584	","Indonesia	"
+2013,"120055770	","exports_to_china	","1689189.3	","Viet Nam	"
+2014,"120055770	","exports_to_china	","1990639.7835	","Viet Nam	"
+2015,"120055770	","exports_to_china	","2983174.5	","Viet Nam	"
+2016,"120055770	","exports_to_china	","3717160.4	","Viet Nam	"
+2017,"120055770	","exports_to_china	","5037461.7	","Viet Nam	"
+2018,"120055770	","exports_to_china	","6395634.9	","Viet Nam	"
+2019,"120055770	","exports_to_china	","6411667.4838	","Viet Nam	"
+2020,"120055770	","exports_to_china	","7847442.5894	","Viet Nam	"
+2021,"120055770	","exports_to_china	","9231942	","Viet Nam	"
+2022,"120055770	","exports_to_china	","8794254	","Viet Nam	"
+2023,"120055770	","exports_to_china	","9213259	","Viet Nam	"
+2024,"120055770	","exports_to_china	","9867808	","Viet Nam	"
+2013,"120055997	","imports_from_china	","4858629.8	","Viet Nam	"
+2014,"120055997	","imports_from_china	","6373001.4143	","Viet Nam	"
+2015,"120055997	","imports_from_china	","6601702	","Viet Nam	"
+2016,"120055997	","imports_from_china	","6110412.8	","Viet Nam	"
+2017,"120055997	","imports_from_china	","7161724.8	","Viet Nam	"
+2018,"120055997	","imports_from_china	","8387668.8	","Viet Nam	"
+2019,"120055997	","imports_from_china	","9786888.2174	","Viet Nam	"
+2020,"120055997	","imports_from_china	","11381565.6726	","Viet Nam	"
+2021,"120055997	","imports_from_china	","13789507	","Viet Nam	"
+2022,"120055997	","imports_from_china	","14387570	","Viet Nam	"
+2023,"120055997	","imports_from_china	","13760140	","Viet Nam	"
+2024,"120055997	","imports_from_china	","16184455	","Viet Nam	"
+2014,"120056824	","realised_fdi_from_china	","7	","Viet Nam	"
+2017,"120056824	","realised_fdi_from_china	","353	","Viet Nam	"
+2018,"120056824	","realised_fdi_from_china	","13883	","Viet Nam	"
+2019,"120056824	","realised_fdi_from_china	","1720	","Viet Nam	"
+2020,"120056824	","realised_fdi_from_china	","275	","Viet Nam	"
+2021,"120056824	","realised_fdi_from_china	","603	","Viet Nam	"
+2022,"120056824	","realised_fdi_from_china	","708	","Viet Nam	"
+2023,"120056824	","realised_fdi_from_china	","999	","Viet Nam	"
+2024,"120056824	","realised_fdi_from_china	","757	","Viet Nam	"
+2013,"WB01142965	","port_container_throughput 	","8035812	","Viet Nam	"
+2014,"WB01142965	","port_container_throughput 	","9473429	","Viet Nam	"
+2015,"WB01142965	","port_container_throughput 	","10615391	","Viet Nam	"
+2016,"WB01142965	","port_container_throughput 	","11282230	","Viet Nam	"
+2017,"WB01142965	","port_container_throughput 	","12382524	","Viet Nam	"
+2018,"WB01142965	","port_container_throughput 	","13394390	","Viet Nam	"
+2019,"WB01142965	","port_container_throughput 	","15297028	","Viet Nam	"
+2020,"WB01142965	","port_container_throughput 	","16394723	","Viet Nam	"
+2021,"WB01142965	","port_container_throughput 	","19821048	","Viet Nam	"
+2022,"WB01142965	","port_container_throughput 	","20518926	","Viet Nam	"
